@@ -19,6 +19,8 @@ async function initReader() {
   const jumpLabelEl = document.getElementById('jumpLabel');
   const prevVerseBtn = document.getElementById('prevVerse');
   const nextVerseBtn = document.getElementById('nextVerse');
+  const edgePrevEl = document.getElementById('edgePrev');
+  const edgeNextEl = document.getElementById('edgeNext');
   const cantoSelectEl = document.getElementById('cantoSelect');
   const chapterSelectEl = document.getElementById('chapterSelect');
   const verseSelectEl = document.getElementById('verseSelect');
@@ -49,6 +51,10 @@ async function initReader() {
 
   function setHash(cantoNumber, chapterNumber, verseNumber) {
     window.location.hash = `/${cantoNumber}/${chapterNumber}/${verseNumber}`;
+  }
+
+  function targetIsInsideEdgePager(target) {
+    return target instanceof Element && Boolean(target.closest('.edge-pager'));
   }
 
   function getChapterEntry(cantoNumber, chapterNumber) {
@@ -301,6 +307,41 @@ async function initReader() {
     if (event.key === 'ArrowLeft') navigateRelative(-1);
     if (event.key === 'ArrowRight') navigateRelative(1);
   });
+
+  let touchStartX = 0;
+  let touchStartY = 0;
+
+  window.addEventListener(
+    'touchstart',
+    (event) => {
+      if (targetIsInsideEdgePager(event.target)) return;
+      const touch = event.changedTouches[0];
+      touchStartX = touch.clientX;
+      touchStartY = touch.clientY;
+    },
+    { passive: true }
+  );
+
+  window.addEventListener(
+    'touchend',
+    (event) => {
+      if (!currentChapter) return;
+      if (targetIsInsideEdgePager(event.target)) return;
+
+      const touch = event.changedTouches[0];
+      const deltaX = touch.clientX - touchStartX;
+      const deltaY = touch.clientY - touchStartY;
+
+      if (Math.abs(deltaX) < 60 || Math.abs(deltaY) > 50) return;
+
+      if (deltaX < 0) navigateRelative(1);
+      if (deltaX > 0) navigateRelative(-1);
+    },
+    { passive: true }
+  );
+
+  edgePrevEl?.addEventListener('click', () => navigateRelative(-1));
+  edgeNextEl?.addEventListener('click', () => navigateRelative(1));
 
   syncSidebarState();
   window.addEventListener('hashchange', renderRoute);

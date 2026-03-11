@@ -1,17 +1,33 @@
 :root {
-  --bg: #08131f;
-  --bg-alt: #16354b;
-  --surface: rgba(11, 24, 39, 0.82);
-  --surface-soft: rgba(255, 244, 224, 0.08);
-  --text: #f6f1e6;
-  --muted: #d4c7b1;
-  --accent: #f2c572;
-  --accent-strong: #ffe6ab;
-  --lotus: #f28ea8;
-  --river: #62b8d9;
-  --stone: #72533d;
-  --border: rgba(242, 197, 114, 0.18);
-  --shadow: 0 24px 70px rgba(0, 0, 0, 0.32);
+  --bg: #dff4ff;
+  --bg-alt: #9bd9ff;
+  --surface: rgba(255, 252, 242, 0.88);
+  --surface-soft: rgba(255, 221, 120, 0.14);
+  --text: #17324a;
+  --muted: #4d6781;
+  --accent: #f2bf3f;
+  --accent-strong: #ffdd74;
+  --lotus: #ffb6c8;
+  --river: #4aaee8;
+  --stone: #9c7a42;
+  --border: rgba(74, 174, 232, 0.2);
+  --shadow: 0 24px 60px rgba(48, 114, 163, 0.18);
+}
+
+body[data-language="te"] {
+  --bg: #fff6df;
+  --bg-alt: #f4d27b;
+  --surface: rgba(255, 249, 235, 0.92);
+  --surface-soft: rgba(167, 119, 47, 0.1);
+  --text: #4f2f18;
+  --muted: #7d5a36;
+  --accent: #b86a1f;
+  --accent-strong: #df8f2c;
+  --lotus: #c78259;
+  --river: #7c9f65;
+  --stone: #7b4a24;
+  --border: rgba(184, 106, 31, 0.18);
+  --shadow: 0 22px 48px rgba(122, 84, 39, 0.14);
 }
 
 * {
@@ -24,9 +40,16 @@ body {
   color: var(--text);
   font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif;
   background:
-    radial-gradient(circle at 18% 12%, rgba(242, 142, 168, 0.16), transparent 22%),
-    radial-gradient(circle at 82% 18%, rgba(98, 184, 217, 0.16), transparent 24%),
-    linear-gradient(180deg, #09111a 0%, #10273a 35%, #214f68 70%, #f1bf73 140%);
+    radial-gradient(circle at 14% 12%, rgba(255, 221, 120, 0.34), transparent 24%),
+    radial-gradient(circle at 84% 18%, rgba(74, 174, 232, 0.28), transparent 26%),
+    linear-gradient(180deg, #ebf9ff 0%, #cdeeff 28%, #9fddff 68%, #ffe699 130%);
+}
+
+body[data-language="te"] {
+  background:
+    radial-gradient(circle at 16% 14%, rgba(223, 143, 44, 0.22), transparent 24%),
+    radial-gradient(circle at 84% 20%, rgba(124, 159, 101, 0.18), transparent 24%),
+    linear-gradient(180deg, #fffaf0 0%, #fff2d4 34%, #f7dfaa 72%, #eed39f 120%);
 }
 
 body::before,
@@ -39,16 +62,29 @@ body::after {
 
 body::before {
   background:
-    radial-gradient(circle at 8% 82%, rgba(114, 83, 61, 0.24), transparent 20%),
-    radial-gradient(circle at 88% 84%, rgba(242, 142, 168, 0.12), transparent 20%);
+    radial-gradient(circle at 10% 86%, rgba(255, 200, 116, 0.22), transparent 20%),
+    radial-gradient(circle at 90% 82%, rgba(74, 174, 232, 0.16), transparent 22%);
+}
+
+body[data-language="te"]::before {
+  background:
+    radial-gradient(circle at 8% 84%, rgba(184, 106, 31, 0.14), transparent 18%),
+    radial-gradient(circle at 90% 84%, rgba(124, 159, 101, 0.14), transparent 20%);
 }
 
 body::after {
-  opacity: 0.45;
+  opacity: 0.3;
   background-image:
-    linear-gradient(120deg, transparent 0 46%, rgba(255, 255, 255, 0.03) 46% 47%, transparent 47% 100%),
-    linear-gradient(60deg, transparent 0 63%, rgba(255, 255, 255, 0.025) 63% 64%, transparent 64% 100%);
-  background-size: 240px 240px;
+    linear-gradient(120deg, transparent 0 46%, rgba(255, 255, 255, 0.22) 46% 47%, transparent 47% 100%),
+    linear-gradient(60deg, transparent 0 63%, rgba(255, 255, 255, 0.16) 63% 64%, transparent 64% 100%);
+  background-size: 220px 220px;
+}
+
+body[data-language="te"]::after {
+  opacity: 0.24;
+  background-image:
+    linear-gradient(120deg, transparent 0 46%, rgba(184, 106, 31, 0.08) 46% 47%, transparent 47% 100%),
+    linear-gradient(60deg, transparent 0 63%, rgba(124, 159, 101, 0.08) 63% 64%, transparent 64% 100%);
 }
 
 a,
@@ -78,7 +114,7 @@ select {
 .sidebar {
   border: 1px solid var(--border);
   background: var(--surface);
-  backdrop-filter: blur(16px);
+  backdrop-filter: blur(18px);
   box-shadow: var(--shadow);
 }
 
@@ -157,8 +193,8 @@ select {
 }
 
 .primary-link {
-  color: #1a2230;
-  background: linear-gradient(180deg, #ffe7ae, #efb85d);
+  color: #143251;
+  background: linear-gradient(180deg, #ffe17b, #f3ba31);
 }
 
 .secondary-link,
@@ -168,8 +204,8 @@ select {
 .jump-link,
 .chapter-chip {
   color: var(--text);
-  border: 1px solid rgba(215, 192, 108, 0.24);
-  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(74, 174, 232, 0.24);
+  background: rgba(255, 255, 255, 0.52);
 }
 
 .button-link {
@@ -197,14 +233,15 @@ select {
 .chapter-meta span {
   padding: 0.55rem 0.85rem;
   border-radius: 999px;
-  border: 1px solid rgba(215, 192, 108, 0.24);
-  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(74, 174, 232, 0.2);
+  background: rgba(255, 255, 255, 0.56);
 }
 
 .page-shell {
   display: grid;
   grid-template-columns: 320px minmax(0, 1fr);
   min-height: 100vh;
+  position: relative;
 }
 
 .page-shell.sidebar-collapsed {
@@ -218,8 +255,14 @@ select {
   overflow: auto;
   padding: 1.2rem 1rem 2rem;
   background:
-    linear-gradient(180deg, rgba(8, 18, 29, 0.96), rgba(16, 40, 59, 0.92)),
-    radial-gradient(circle at top, rgba(242, 142, 168, 0.12), transparent 40%);
+    linear-gradient(180deg, rgba(218, 243, 255, 0.96), rgba(186, 228, 252, 0.94)),
+    radial-gradient(circle at top, rgba(255, 221, 120, 0.24), transparent 40%);
+}
+
+body[data-language="te"] .sidebar {
+  background:
+    linear-gradient(180deg, rgba(255, 247, 228, 0.98), rgba(247, 225, 182, 0.96)),
+    radial-gradient(circle at top, rgba(184, 106, 31, 0.12), transparent 42%);
 }
 
 .page-shell.sidebar-collapsed .sidebar {
@@ -253,8 +296,18 @@ select {
 .chapter-button:hover,
 .secondary-link:hover,
 .jump-actions button:hover {
-  background: rgba(98, 184, 217, 0.12);
-  border-color: rgba(98, 184, 217, 0.36);
+  background: linear-gradient(135deg, rgba(74, 174, 232, 0.16), rgba(255, 221, 120, 0.2));
+  border-color: rgba(74, 174, 232, 0.42);
+}
+
+body[data-language="te"] .chapter-button.active,
+body[data-language="te"] .jump-link.active,
+body[data-language="te"] .rail-link:hover,
+body[data-language="te"] .chapter-button:hover,
+body[data-language="te"] .secondary-link:hover,
+body[data-language="te"] .jump-actions button:hover {
+  background: linear-gradient(135deg, rgba(223, 143, 44, 0.16), rgba(124, 159, 101, 0.16));
+  border-color: rgba(184, 106, 31, 0.34);
 }
 
 .main-panel {
@@ -263,6 +316,72 @@ select {
 
 .top-strip {
   justify-content: space-between;
+}
+
+.edge-pager {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  z-index: 20;
+  display: flex;
+  align-items: center;
+  width: 68px;
+  padding: 0;
+  border: 0;
+  background: linear-gradient(90deg, rgba(74, 174, 232, 0.18), transparent);
+  color: rgba(23, 50, 74, 0.52);
+  cursor: pointer;
+}
+
+body[data-language="te"] .edge-pager {
+  background: linear-gradient(90deg, rgba(184, 106, 31, 0.12), transparent);
+  color: rgba(79, 47, 24, 0.46);
+}
+
+.edge-pager span {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 82px;
+  border-radius: 999px;
+  background: rgba(255, 251, 236, 0.82);
+  border: 1px solid rgba(74, 174, 232, 0.18);
+  font-size: 2rem;
+  transition: transform 140ms ease, color 140ms ease, background 140ms ease;
+}
+
+body[data-language="te"] .edge-pager span {
+  background: rgba(255, 248, 233, 0.88);
+  border: 1px solid rgba(184, 106, 31, 0.14);
+}
+
+.edge-pager:hover span {
+  transform: scale(1.04);
+  color: #1460a2;
+  background: rgba(255, 231, 135, 0.92);
+}
+
+body[data-language="te"] .edge-pager:hover span {
+  color: #a25b17;
+  background: rgba(252, 217, 143, 0.96);
+}
+
+.edge-pager-left {
+  left: 0;
+  justify-content: flex-start;
+  padding-left: 10px;
+}
+
+.edge-pager-right {
+  right: 0;
+  justify-content: flex-end;
+  padding-right: 10px;
+  background: linear-gradient(270deg, rgba(74, 174, 232, 0.18), transparent);
+}
+
+body[data-language="te"] .edge-pager-right {
+  background: linear-gradient(270deg, rgba(184, 106, 31, 0.12), transparent);
 }
 
 .verse-header {
@@ -279,11 +398,20 @@ select {
   line-height: 1.75;
 }
 
+body[data-language="te"] .shloka-text {
+  font-size: clamp(1.5rem, 2.25vw, 2.05rem);
+  line-height: 1.9;
+}
+
 .transliteration {
   margin-top: 1rem;
-  color: var(--accent-strong);
+  color: #1f76b8;
   line-height: 1.8;
   white-space: pre-line;
+}
+
+body[data-language="te"] .transliteration {
+  color: #8c5a2a;
 }
 
 .meaning-block {
@@ -317,9 +445,13 @@ select {
   width: 100%;
   padding: 0.85rem 0.95rem;
   color: var(--text);
-  background: rgba(255, 255, 255, 0.05);
+  background: rgba(255, 255, 255, 0.76);
   border: 1px solid var(--border);
   border-radius: 18px;
+}
+
+body[data-language="te"] select {
+  background: rgba(255, 252, 243, 0.92);
 }
 
 .section-head {
@@ -352,9 +484,9 @@ select {
   border-radius: 32px;
   overflow: hidden;
   background:
-    radial-gradient(circle at 50% 20%, rgba(255, 230, 171, 0.24), transparent 24%),
-    radial-gradient(circle at 50% 88%, rgba(98, 184, 217, 0.22), transparent 30%),
-    linear-gradient(180deg, rgba(20, 42, 66, 0.98), rgba(13, 26, 42, 0.98) 56%, rgba(235, 172, 94, 0.95));
+    radial-gradient(circle at 52% 18%, rgba(255, 232, 137, 0.68), transparent 22%),
+    radial-gradient(circle at 52% 88%, rgba(74, 174, 232, 0.32), transparent 30%),
+    linear-gradient(180deg, rgba(225, 247, 255, 0.98), rgba(143, 215, 252, 0.98) 56%, rgba(248, 201, 77, 0.94));
 }
 
 .orb {
@@ -367,21 +499,21 @@ select {
   inset: auto auto 12% 8%;
   width: 220px;
   height: 120px;
-  background: radial-gradient(circle, rgba(98, 184, 217, 0.42), rgba(98, 184, 217, 0.04));
+  background: radial-gradient(circle, rgba(74, 174, 232, 0.4), rgba(74, 174, 232, 0.06));
 }
 
 .orb-b {
   inset: auto 12% 12% auto;
   width: 140px;
   height: 140px;
-  background: radial-gradient(circle, rgba(242, 142, 168, 0.5), rgba(242, 142, 168, 0.04));
+  background: radial-gradient(circle, rgba(255, 211, 97, 0.54), rgba(255, 211, 97, 0.06));
 }
 
 .orb-c {
   inset: 18% 22% auto auto;
   width: 180px;
   height: 180px;
-  background: radial-gradient(circle, rgba(255, 230, 171, 0.44), rgba(255, 230, 171, 0.02));
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.58), rgba(255, 255, 255, 0.04));
 }
 
 @media (max-width: 1080px) {
@@ -414,5 +546,23 @@ select {
 
   .jump-actions {
     margin-top: 0.8rem;
+  }
+
+  .edge-pager {
+    width: 56px;
+  }
+
+  .edge-pager span {
+    width: 28px;
+    height: 72px;
+    font-size: 1.8rem;
+  }
+
+  .edge-pager-left {
+    padding-left: 8px;
+  }
+
+  .edge-pager-right {
+    padding-right: 8px;
   }
 }

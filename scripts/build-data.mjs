@@ -97,6 +97,11 @@ function cleanText(value) {
     .trim();
 }
 
+function normalizeVerseNumber(rawValue, fallbackIndex) {
+  const parsed = Number.parseInt(String(rawValue ?? '').trim(), 10);
+  return Number.isFinite(parsed) ? parsed : fallbackIndex + 1;
+}
+
 function chapterTitle(cantoNumber, chapterNumber) {
   return `Canto ${cantoNumber} Chapter ${chapterNumber}`;
 }
@@ -138,8 +143,8 @@ function buildEnglishCorpus() {
       )
     );
 
-    const verses = payload.map((verse) => ({
-      verseNumber: Number(verse.verse),
+    const verses = payload.map((verse, index) => ({
+      verseNumber: normalizeVerseNumber(verse.verse, index),
       text: cleanText(verse.devanagari),
       transliteration: cleanText(verse.english_devnagari),
       meaning: cleanText(verse.translation),
