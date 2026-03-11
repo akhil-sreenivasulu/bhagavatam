@@ -1,0 +1,2089 @@
+{
+  "generatedAt": "2026-03-11T09:31:36.409Z",
+  "source": "https://github.com/gita/Datasets",
+  "status": "complete",
+  "cantos": [
+    {
+      "cantoNumber": 1,
+      "title": "Canto 1",
+      "chapters": [
+        {
+          "chapterNumber": 1,
+          "title": "Canto 1 Chapter 1",
+          "verseCount": 23,
+          "path": "data/en-canto-01-chapter-01.json"
+        },
+        {
+          "chapterNumber": 2,
+          "title": "Canto 1 Chapter 2",
+          "verseCount": 33,
+          "path": "data/en-canto-01-chapter-02.json"
+        },
+        {
+          "chapterNumber": 3,
+          "title": "Canto 1 Chapter 3",
+          "verseCount": 44,
+          "path": "data/en-canto-01-chapter-03.json"
+        },
+        {
+          "chapterNumber": 4,
+          "title": "Canto 1 Chapter 4",
+          "verseCount": 31,
+          "path": "data/en-canto-01-chapter-04.json"
+        },
+        {
+          "chapterNumber": 5,
+          "title": "Canto 1 Chapter 5",
+          "verseCount": 40,
+          "path": "data/en-canto-01-chapter-05.json"
+        },
+        {
+          "chapterNumber": 6,
+          "title": "Canto 1 Chapter 6",
+          "verseCount": 38,
+          "path": "data/en-canto-01-chapter-06.json"
+        },
+        {
+          "chapterNumber": 7,
+          "title": "Canto 1 Chapter 7",
+          "verseCount": 56,
+          "path": "data/en-canto-01-chapter-07.json"
+        },
+        {
+          "chapterNumber": 8,
+          "title": "Canto 1 Chapter 8",
+          "verseCount": 52,
+          "path": "data/en-canto-01-chapter-08.json"
+        },
+        {
+          "chapterNumber": 9,
+          "title": "Canto 1 Chapter 9",
+          "verseCount": 48,
+          "path": "data/en-canto-01-chapter-09.json"
+        },
+        {
+          "chapterNumber": 10,
+          "title": "Canto 1 Chapter 10",
+          "verseCount": 33,
+          "path": "data/en-canto-01-chapter-10.json"
+        },
+        {
+          "chapterNumber": 11,
+          "title": "Canto 1 Chapter 11",
+          "verseCount": 37,
+          "path": "data/en-canto-01-chapter-11.json"
+        },
+        {
+          "chapterNumber": 12,
+          "title": "Canto 1 Chapter 12",
+          "verseCount": 36,
+          "path": "data/en-canto-01-chapter-12.json"
+        },
+        {
+          "chapterNumber": 13,
+          "title": "Canto 1 Chapter 13",
+          "verseCount": 59,
+          "path": "data/en-canto-01-chapter-13.json"
+        },
+        {
+          "chapterNumber": 14,
+          "title": "Canto 1 Chapter 14",
+          "verseCount": 41,
+          "path": "data/en-canto-01-chapter-14.json"
+        },
+        {
+          "chapterNumber": 15,
+          "title": "Canto 1 Chapter 15",
+          "verseCount": 48,
+          "path": "data/en-canto-01-chapter-15.json"
+        },
+        {
+          "chapterNumber": 16,
+          "title": "Canto 1 Chapter 16",
+          "verseCount": 29,
+          "path": "data/en-canto-01-chapter-16.json"
+        },
+        {
+          "chapterNumber": 17,
+          "title": "Canto 1 Chapter 17",
+          "verseCount": 43,
+          "path": "data/en-canto-01-chapter-17.json"
+        },
+        {
+          "chapterNumber": 18,
+          "title": "Canto 1 Chapter 18",
+          "verseCount": 49,
+          "path": "data/en-canto-01-chapter-18.json"
+        },
+        {
+          "chapterNumber": 19,
+          "title": "Canto 1 Chapter 19",
+          "verseCount": 50,
+          "path": "data/en-canto-01-chapter-19.json"
+        }
+      ]
+    },
+    {
+      "cantoNumber": 2,
+      "title": "Canto 2",
+      "chapters": [
+        {
+          "chapterNumber": 1,
+          "title": "Canto 2 Chapter 1",
+          "verseCount": 39,
+          "path": "data/en-canto-02-chapter-01.json"
+        },
+        {
+          "chapterNumber": 2,
+          "title": "Canto 2 Chapter 2",
+          "verseCount": 37,
+          "path": "data/en-canto-02-chapter-02.json"
+        },
+        {
+          "chapterNumber": 3,
+          "title": "Canto 2 Chapter 3",
+          "verseCount": 20,
+          "path": "data/en-canto-02-chapter-03.json"
+        },
+        {
+          "chapterNumber": 4,
+          "title": "Canto 2 Chapter 4",
+          "verseCount": 24,
+          "path": "data/en-canto-02-chapter-04.json"
+        },
+        {
+          "chapterNumber": 5,
+          "title": "Canto 2 Chapter 5",
+          "verseCount": 38,
+          "path": "data/en-canto-02-chapter-05.json"
+        },
+        {
+          "chapterNumber": 6,
+          "title": "Canto 2 Chapter 6",
+          "verseCount": 40,
+          "path": "data/en-canto-02-chapter-06.json"
+        },
+        {
+          "chapterNumber": 7,
+          "title": "Canto 2 Chapter 7",
+          "verseCount": 50,
+          "path": "data/en-canto-02-chapter-07.json"
+        },
+        {
+          "chapterNumber": 8,
+          "title": "Canto 2 Chapter 8",
+          "verseCount": 29,
+          "path": "data/en-canto-02-chapter-08.json"
+        },
+        {
+          "chapterNumber": 9,
+          "title": "Canto 2 Chapter 9",
+          "verseCount": 46,
+          "path": "data/en-canto-02-chapter-09.json"
+        },
+        {
+          "chapterNumber": 10,
+          "title": "Canto 2 Chapter 10",
+          "verseCount": 80,
+          "path": "data/en-canto-02-chapter-10.json"
+        }
+      ]
+    },
+    {
+      "cantoNumber": 3,
+      "title": "Canto 3",
+      "chapters": [
+        {
+          "chapterNumber": 1,
+          "title": "Canto 3 Chapter 1",
+          "verseCount": 45,
+          "path": "data/en-canto-03-chapter-01.json"
+        },
+        {
+          "chapterNumber": 2,
+          "title": "Canto 3 Chapter 2",
+          "verseCount": 34,
+          "path": "data/en-canto-03-chapter-02.json"
+        },
+        {
+          "chapterNumber": 3,
+          "title": "Canto 3 Chapter 3",
+          "verseCount": 28,
+          "path": "data/en-canto-03-chapter-03.json"
+        },
+        {
+          "chapterNumber": 4,
+          "title": "Canto 3 Chapter 4",
+          "verseCount": 36,
+          "path": "data/en-canto-03-chapter-04.json"
+        },
+        {
+          "chapterNumber": 5,
+          "title": "Canto 3 Chapter 5",
+          "verseCount": 51,
+          "path": "data/en-canto-03-chapter-05.json"
+        },
+        {
+          "chapterNumber": 6,
+          "title": "Canto 3 Chapter 6",
+          "verseCount": 40,
+          "path": "data/en-canto-03-chapter-06.json"
+        },
+        {
+          "chapterNumber": 7,
+          "title": "Canto 3 Chapter 7",
+          "verseCount": 42,
+          "path": "data/en-canto-03-chapter-07.json"
+        },
+        {
+          "chapterNumber": 8,
+          "title": "Canto 3 Chapter 8",
+          "verseCount": 33,
+          "path": "data/en-canto-03-chapter-08.json"
+        },
+        {
+          "chapterNumber": 9,
+          "title": "Canto 3 Chapter 9",
+          "verseCount": 43,
+          "path": "data/en-canto-03-chapter-09.json"
+        },
+        {
+          "chapterNumber": 10,
+          "title": "Canto 3 Chapter 10",
+          "verseCount": 29,
+          "path": "data/en-canto-03-chapter-10.json"
+        },
+        {
+          "chapterNumber": 11,
+          "title": "Canto 3 Chapter 11",
+          "verseCount": 42,
+          "path": "data/en-canto-03-chapter-11.json"
+        },
+        {
+          "chapterNumber": 12,
+          "title": "Canto 3 Chapter 12",
+          "verseCount": 57,
+          "path": "data/en-canto-03-chapter-12.json"
+        },
+        {
+          "chapterNumber": 13,
+          "title": "Canto 3 Chapter 13",
+          "verseCount": 50,
+          "path": "data/en-canto-03-chapter-13.json"
+        },
+        {
+          "chapterNumber": 14,
+          "title": "Canto 3 Chapter 14",
+          "verseCount": 50,
+          "path": "data/en-canto-03-chapter-14.json"
+        },
+        {
+          "chapterNumber": 15,
+          "title": "Canto 3 Chapter 15",
+          "verseCount": 50,
+          "path": "data/en-canto-03-chapter-15.json"
+        },
+        {
+          "chapterNumber": 16,
+          "title": "Canto 3 Chapter 16",
+          "verseCount": 37,
+          "path": "data/en-canto-03-chapter-16.json"
+        },
+        {
+          "chapterNumber": 17,
+          "title": "Canto 3 Chapter 17",
+          "verseCount": 31,
+          "path": "data/en-canto-03-chapter-17.json"
+        },
+        {
+          "chapterNumber": 18,
+          "title": "Canto 3 Chapter 18",
+          "verseCount": 27,
+          "path": "data/en-canto-03-chapter-18.json"
+        },
+        {
+          "chapterNumber": 19,
+          "title": "Canto 3 Chapter 19",
+          "verseCount": 38,
+          "path": "data/en-canto-03-chapter-19.json"
+        },
+        {
+          "chapterNumber": 20,
+          "title": "Canto 3 Chapter 20",
+          "verseCount": 53,
+          "path": "data/en-canto-03-chapter-20.json"
+        },
+        {
+          "chapterNumber": 21,
+          "title": "Canto 3 Chapter 21",
+          "verseCount": 50,
+          "path": "data/en-canto-03-chapter-21.json"
+        },
+        {
+          "chapterNumber": 22,
+          "title": "Canto 3 Chapter 22",
+          "verseCount": 37,
+          "path": "data/en-canto-03-chapter-22.json"
+        },
+        {
+          "chapterNumber": 23,
+          "title": "Canto 3 Chapter 23",
+          "verseCount": 54,
+          "path": "data/en-canto-03-chapter-23.json"
+        },
+        {
+          "chapterNumber": 24,
+          "title": "Canto 3 Chapter 24",
+          "verseCount": 46,
+          "path": "data/en-canto-03-chapter-24.json"
+        },
+        {
+          "chapterNumber": 25,
+          "title": "Canto 3 Chapter 25",
+          "verseCount": 43,
+          "path": "data/en-canto-03-chapter-25.json"
+        },
+        {
+          "chapterNumber": 26,
+          "title": "Canto 3 Chapter 26",
+          "verseCount": 71,
+          "path": "data/en-canto-03-chapter-26.json"
+        },
+        {
+          "chapterNumber": 27,
+          "title": "Canto 3 Chapter 27",
+          "verseCount": 29,
+          "path": "data/en-canto-03-chapter-27.json"
+        },
+        {
+          "chapterNumber": 28,
+          "title": "Canto 3 Chapter 28",
+          "verseCount": 44,
+          "path": "data/en-canto-03-chapter-28.json"
+        },
+        {
+          "chapterNumber": 29,
+          "title": "Canto 3 Chapter 29",
+          "verseCount": 43,
+          "path": "data/en-canto-03-chapter-29.json"
+        },
+        {
+          "chapterNumber": 30,
+          "title": "Canto 3 Chapter 30",
+          "verseCount": 34,
+          "path": "data/en-canto-03-chapter-30.json"
+        },
+        {
+          "chapterNumber": 31,
+          "title": "Canto 3 Chapter 31",
+          "verseCount": 47,
+          "path": "data/en-canto-03-chapter-31.json"
+        },
+        {
+          "chapterNumber": 32,
+          "title": "Canto 3 Chapter 32",
+          "verseCount": 38,
+          "path": "data/en-canto-03-chapter-32.json"
+        },
+        {
+          "chapterNumber": 33,
+          "title": "Canto 3 Chapter 33",
+          "verseCount": 52,
+          "path": "data/en-canto-03-chapter-33.json"
+        }
+      ]
+    },
+    {
+      "cantoNumber": 4,
+      "title": "Canto 4",
+      "chapters": [
+        {
+          "chapterNumber": 1,
+          "title": "Canto 4 Chapter 1",
+          "verseCount": 60,
+          "path": "data/en-canto-04-chapter-01.json"
+        },
+        {
+          "chapterNumber": 2,
+          "title": "Canto 4 Chapter 2",
+          "verseCount": 34,
+          "path": "data/en-canto-04-chapter-02.json"
+        },
+        {
+          "chapterNumber": 3,
+          "title": "Canto 4 Chapter 3",
+          "verseCount": 23,
+          "path": "data/en-canto-04-chapter-03.json"
+        },
+        {
+          "chapterNumber": 4,
+          "title": "Canto 4 Chapter 4",
+          "verseCount": 34,
+          "path": "data/en-canto-04-chapter-04.json"
+        },
+        {
+          "chapterNumber": 5,
+          "title": "Canto 4 Chapter 5",
+          "verseCount": 26,
+          "path": "data/en-canto-04-chapter-05.json"
+        },
+        {
+          "chapterNumber": 6,
+          "title": "Canto 4 Chapter 6",
+          "verseCount": 50,
+          "path": "data/en-canto-04-chapter-06.json"
+        },
+        {
+          "chapterNumber": 7,
+          "title": "Canto 4 Chapter 7",
+          "verseCount": 61,
+          "path": "data/en-canto-04-chapter-07.json"
+        },
+        {
+          "chapterNumber": 8,
+          "title": "Canto 4 Chapter 8",
+          "verseCount": 81,
+          "path": "data/en-canto-04-chapter-08.json"
+        },
+        {
+          "chapterNumber": 9,
+          "title": "Canto 4 Chapter 9",
+          "verseCount": 63,
+          "path": "data/en-canto-04-chapter-09.json"
+        },
+        {
+          "chapterNumber": 10,
+          "title": "Canto 4 Chapter 10",
+          "verseCount": 28,
+          "path": "data/en-canto-04-chapter-10.json"
+        },
+        {
+          "chapterNumber": 11,
+          "title": "Canto 4 Chapter 11",
+          "verseCount": 35,
+          "path": "data/en-canto-04-chapter-11.json"
+        },
+        {
+          "chapterNumber": 12,
+          "title": "Canto 4 Chapter 12",
+          "verseCount": 51,
+          "path": "data/en-canto-04-chapter-12.json"
+        },
+        {
+          "chapterNumber": 13,
+          "title": "Canto 4 Chapter 13",
+          "verseCount": 46,
+          "path": "data/en-canto-04-chapter-13.json"
+        },
+        {
+          "chapterNumber": 14,
+          "title": "Canto 4 Chapter 14",
+          "verseCount": 44,
+          "path": "data/en-canto-04-chapter-14.json"
+        },
+        {
+          "chapterNumber": 15,
+          "title": "Canto 4 Chapter 15",
+          "verseCount": 25,
+          "path": "data/en-canto-04-chapter-15.json"
+        },
+        {
+          "chapterNumber": 16,
+          "title": "Canto 4 Chapter 16",
+          "verseCount": 27,
+          "path": "data/en-canto-04-chapter-16.json"
+        },
+        {
+          "chapterNumber": 17,
+          "title": "Canto 4 Chapter 17",
+          "verseCount": 34,
+          "path": "data/en-canto-04-chapter-17.json"
+        },
+        {
+          "chapterNumber": 18,
+          "title": "Canto 4 Chapter 18",
+          "verseCount": 30,
+          "path": "data/en-canto-04-chapter-18.json"
+        },
+        {
+          "chapterNumber": 19,
+          "title": "Canto 4 Chapter 19",
+          "verseCount": 41,
+          "path": "data/en-canto-04-chapter-19.json"
+        },
+        {
+          "chapterNumber": 20,
+          "title": "Canto 4 Chapter 20",
+          "verseCount": 37,
+          "path": "data/en-canto-04-chapter-20.json"
+        },
+        {
+          "chapterNumber": 21,
+          "title": "Canto 4 Chapter 21",
+          "verseCount": 51,
+          "path": "data/en-canto-04-chapter-21.json"
+        },
+        {
+          "chapterNumber": 22,
+          "title": "Canto 4 Chapter 22",
+          "verseCount": 63,
+          "path": "data/en-canto-04-chapter-22.json"
+        },
+        {
+          "chapterNumber": 23,
+          "title": "Canto 4 Chapter 23",
+          "verseCount": 37,
+          "path": "data/en-canto-04-chapter-23.json"
+        },
+        {
+          "chapterNumber": 24,
+          "title": "Canto 4 Chapter 24",
+          "verseCount": 76,
+          "path": "data/en-canto-04-chapter-24.json"
+        },
+        {
+          "chapterNumber": 25,
+          "title": "Canto 4 Chapter 25",
+          "verseCount": 58,
+          "path": "data/en-canto-04-chapter-25.json"
+        },
+        {
+          "chapterNumber": 26,
+          "title": "Canto 4 Chapter 26",
+          "verseCount": 24,
+          "path": "data/en-canto-04-chapter-26.json"
+        },
+        {
+          "chapterNumber": 27,
+          "title": "Canto 4 Chapter 27",
+          "verseCount": 30,
+          "path": "data/en-canto-04-chapter-27.json"
+        },
+        {
+          "chapterNumber": 28,
+          "title": "Canto 4 Chapter 28",
+          "verseCount": 64,
+          "path": "data/en-canto-04-chapter-28.json"
+        },
+        {
+          "chapterNumber": 29,
+          "title": "Canto 4 Chapter 29",
+          "verseCount": 185,
+          "path": "data/en-canto-04-chapter-29.json"
+        },
+        {
+          "chapterNumber": 30,
+          "title": "Canto 4 Chapter 30",
+          "verseCount": 117,
+          "path": "data/en-canto-04-chapter-30.json"
+        },
+        {
+          "chapterNumber": 31,
+          "title": "Canto 4 Chapter 31",
+          "verseCount": 69,
+          "path": "data/en-canto-04-chapter-31.json"
+        }
+      ]
+    },
+    {
+      "cantoNumber": 5,
+      "title": "Canto 5",
+      "chapters": [
+        {
+          "chapterNumber": 1,
+          "title": "Canto 5 Chapter 1",
+          "verseCount": 41,
+          "path": "data/en-canto-05-chapter-01.json"
+        },
+        {
+          "chapterNumber": 2,
+          "title": "Canto 5 Chapter 2",
+          "verseCount": 23,
+          "path": "data/en-canto-05-chapter-02.json"
+        },
+        {
+          "chapterNumber": 3,
+          "title": "Canto 5 Chapter 3",
+          "verseCount": 19,
+          "path": "data/en-canto-05-chapter-03.json"
+        },
+        {
+          "chapterNumber": 4,
+          "title": "Canto 5 Chapter 4",
+          "verseCount": 18,
+          "path": "data/en-canto-05-chapter-04.json"
+        },
+        {
+          "chapterNumber": 5,
+          "title": "Canto 5 Chapter 5",
+          "verseCount": 31,
+          "path": "data/en-canto-05-chapter-05.json"
+        },
+        {
+          "chapterNumber": 6,
+          "title": "Canto 5 Chapter 6",
+          "verseCount": 19,
+          "path": "data/en-canto-05-chapter-06.json"
+        },
+        {
+          "chapterNumber": 7,
+          "title": "Canto 5 Chapter 7",
+          "verseCount": 14,
+          "path": "data/en-canto-05-chapter-07.json"
+        },
+        {
+          "chapterNumber": 8,
+          "title": "Canto 5 Chapter 8",
+          "verseCount": 31,
+          "path": "data/en-canto-05-chapter-08.json"
+        },
+        {
+          "chapterNumber": 9,
+          "title": "Canto 5 Chapter 9",
+          "verseCount": 18,
+          "path": "data/en-canto-05-chapter-09.json"
+        },
+        {
+          "chapterNumber": 10,
+          "title": "Canto 5 Chapter 10",
+          "verseCount": 25,
+          "path": "data/en-canto-05-chapter-10.json"
+        },
+        {
+          "chapterNumber": 11,
+          "title": "Canto 5 Chapter 11",
+          "verseCount": 16,
+          "path": "data/en-canto-05-chapter-11.json"
+        },
+        {
+          "chapterNumber": 12,
+          "title": "Canto 5 Chapter 12",
+          "verseCount": 15,
+          "path": "data/en-canto-05-chapter-12.json"
+        },
+        {
+          "chapterNumber": 13,
+          "title": "Canto 5 Chapter 13",
+          "verseCount": 26,
+          "path": "data/en-canto-05-chapter-13.json"
+        },
+        {
+          "chapterNumber": 14,
+          "title": "Canto 5 Chapter 14",
+          "verseCount": 46,
+          "path": "data/en-canto-05-chapter-14.json"
+        },
+        {
+          "chapterNumber": 15,
+          "title": "Canto 5 Chapter 15",
+          "verseCount": 15,
+          "path": "data/en-canto-05-chapter-15.json"
+        },
+        {
+          "chapterNumber": 16,
+          "title": "Canto 5 Chapter 16",
+          "verseCount": 27,
+          "path": "data/en-canto-05-chapter-16.json"
+        },
+        {
+          "chapterNumber": 17,
+          "title": "Canto 5 Chapter 17",
+          "verseCount": 23,
+          "path": "data/en-canto-05-chapter-17.json"
+        },
+        {
+          "chapterNumber": 18,
+          "title": "Canto 5 Chapter 18",
+          "verseCount": 39,
+          "path": "data/en-canto-05-chapter-18.json"
+        },
+        {
+          "chapterNumber": 19,
+          "title": "Canto 5 Chapter 19",
+          "verseCount": 29,
+          "path": "data/en-canto-05-chapter-19.json"
+        },
+        {
+          "chapterNumber": 20,
+          "title": "Canto 5 Chapter 20",
+          "verseCount": 45,
+          "path": "data/en-canto-05-chapter-20.json"
+        },
+        {
+          "chapterNumber": 21,
+          "title": "Canto 5 Chapter 21",
+          "verseCount": 18,
+          "path": "data/en-canto-05-chapter-21.json"
+        },
+        {
+          "chapterNumber": 22,
+          "title": "Canto 5 Chapter 22",
+          "verseCount": 17,
+          "path": "data/en-canto-05-chapter-22.json"
+        },
+        {
+          "chapterNumber": 23,
+          "title": "Canto 5 Chapter 23",
+          "verseCount": 9,
+          "path": "data/en-canto-05-chapter-23.json"
+        },
+        {
+          "chapterNumber": 24,
+          "title": "Canto 5 Chapter 24",
+          "verseCount": 31,
+          "path": "data/en-canto-05-chapter-24.json"
+        },
+        {
+          "chapterNumber": 25,
+          "title": "Canto 5 Chapter 25",
+          "verseCount": 15,
+          "path": "data/en-canto-05-chapter-25.json"
+        },
+        {
+          "chapterNumber": 26,
+          "title": "Canto 5 Chapter 26",
+          "verseCount": 37,
+          "path": "data/en-canto-05-chapter-26.json"
+        }
+      ]
+    },
+    {
+      "cantoNumber": 6,
+      "title": "Canto 6",
+      "chapters": [
+        {
+          "chapterNumber": 1,
+          "title": "Canto 6 Chapter 1",
+          "verseCount": 60,
+          "path": "data/en-canto-06-chapter-01.json"
+        },
+        {
+          "chapterNumber": 2,
+          "title": "Canto 6 Chapter 2",
+          "verseCount": 44,
+          "path": "data/en-canto-06-chapter-02.json"
+        },
+        {
+          "chapterNumber": 3,
+          "title": "Canto 6 Chapter 3",
+          "verseCount": 33,
+          "path": "data/en-canto-06-chapter-03.json"
+        },
+        {
+          "chapterNumber": 4,
+          "title": "Canto 6 Chapter 4",
+          "verseCount": 47,
+          "path": "data/en-canto-06-chapter-04.json"
+        },
+        {
+          "chapterNumber": 5,
+          "title": "Canto 6 Chapter 5",
+          "verseCount": 40,
+          "path": "data/en-canto-06-chapter-05.json"
+        },
+        {
+          "chapterNumber": 6,
+          "title": "Canto 6 Chapter 6",
+          "verseCount": 34,
+          "path": "data/en-canto-06-chapter-06.json"
+        },
+        {
+          "chapterNumber": 7,
+          "title": "Canto 6 Chapter 7",
+          "verseCount": 33,
+          "path": "data/en-canto-06-chapter-07.json"
+        },
+        {
+          "chapterNumber": 8,
+          "title": "Canto 6 Chapter 8",
+          "verseCount": 35,
+          "path": "data/en-canto-06-chapter-08.json"
+        },
+        {
+          "chapterNumber": 9,
+          "title": "Canto 6 Chapter 9",
+          "verseCount": 49,
+          "path": "data/en-canto-06-chapter-09.json"
+        },
+        {
+          "chapterNumber": 10,
+          "title": "Canto 6 Chapter 10",
+          "verseCount": 28,
+          "path": "data/en-canto-06-chapter-10.json"
+        },
+        {
+          "chapterNumber": 11,
+          "title": "Canto 6 Chapter 11",
+          "verseCount": 26,
+          "path": "data/en-canto-06-chapter-11.json"
+        },
+        {
+          "chapterNumber": 12,
+          "title": "Canto 6 Chapter 12",
+          "verseCount": 33,
+          "path": "data/en-canto-06-chapter-12.json"
+        },
+        {
+          "chapterNumber": 13,
+          "title": "Canto 6 Chapter 13",
+          "verseCount": 19,
+          "path": "data/en-canto-06-chapter-13.json"
+        },
+        {
+          "chapterNumber": 14,
+          "title": "Canto 6 Chapter 14",
+          "verseCount": 60,
+          "path": "data/en-canto-06-chapter-14.json"
+        },
+        {
+          "chapterNumber": 15,
+          "title": "Canto 6 Chapter 15",
+          "verseCount": 22,
+          "path": "data/en-canto-06-chapter-15.json"
+        },
+        {
+          "chapterNumber": 16,
+          "title": "Canto 6 Chapter 16",
+          "verseCount": 62,
+          "path": "data/en-canto-06-chapter-16.json"
+        },
+        {
+          "chapterNumber": 17,
+          "title": "Canto 6 Chapter 17",
+          "verseCount": 38,
+          "path": "data/en-canto-06-chapter-17.json"
+        },
+        {
+          "chapterNumber": 18,
+          "title": "Canto 6 Chapter 18",
+          "verseCount": 73,
+          "path": "data/en-canto-06-chapter-18.json"
+        },
+        {
+          "chapterNumber": 19,
+          "title": "Canto 6 Chapter 19",
+          "verseCount": 13,
+          "path": "data/en-canto-06-chapter-19.json"
+        }
+      ]
+    },
+    {
+      "cantoNumber": 7,
+      "title": "Canto 7",
+      "chapters": [
+        {
+          "chapterNumber": 1,
+          "title": "Canto 7 Chapter 1",
+          "verseCount": 45,
+          "path": "data/en-canto-07-chapter-01.json"
+        },
+        {
+          "chapterNumber": 2,
+          "title": "Canto 7 Chapter 2",
+          "verseCount": 55,
+          "path": "data/en-canto-07-chapter-02.json"
+        },
+        {
+          "chapterNumber": 3,
+          "title": "Canto 7 Chapter 3",
+          "verseCount": 34,
+          "path": "data/en-canto-07-chapter-03.json"
+        },
+        {
+          "chapterNumber": 4,
+          "title": "Canto 7 Chapter 4",
+          "verseCount": 38,
+          "path": "data/en-canto-07-chapter-04.json"
+        },
+        {
+          "chapterNumber": 5,
+          "title": "Canto 7 Chapter 5",
+          "verseCount": 53,
+          "path": "data/en-canto-07-chapter-05.json"
+        },
+        {
+          "chapterNumber": 6,
+          "title": "Canto 7 Chapter 6",
+          "verseCount": 23,
+          "path": "data/en-canto-07-chapter-06.json"
+        },
+        {
+          "chapterNumber": 7,
+          "title": "Canto 7 Chapter 7",
+          "verseCount": 51,
+          "path": "data/en-canto-07-chapter-07.json"
+        },
+        {
+          "chapterNumber": 8,
+          "title": "Canto 7 Chapter 8",
+          "verseCount": 50,
+          "path": "data/en-canto-07-chapter-08.json"
+        },
+        {
+          "chapterNumber": 9,
+          "title": "Canto 7 Chapter 9",
+          "verseCount": 55,
+          "path": "data/en-canto-07-chapter-09.json"
+        },
+        {
+          "chapterNumber": 10,
+          "title": "Canto 7 Chapter 10",
+          "verseCount": 65,
+          "path": "data/en-canto-07-chapter-10.json"
+        },
+        {
+          "chapterNumber": 11,
+          "title": "Canto 7 Chapter 11",
+          "verseCount": 27,
+          "path": "data/en-canto-07-chapter-11.json"
+        },
+        {
+          "chapterNumber": 12,
+          "title": "Canto 7 Chapter 12",
+          "verseCount": 27,
+          "path": "data/en-canto-07-chapter-12.json"
+        },
+        {
+          "chapterNumber": 13,
+          "title": "Canto 7 Chapter 13",
+          "verseCount": 44,
+          "path": "data/en-canto-07-chapter-13.json"
+        },
+        {
+          "chapterNumber": 14,
+          "title": "Canto 7 Chapter 14",
+          "verseCount": 34,
+          "path": "data/en-canto-07-chapter-14.json"
+        },
+        {
+          "chapterNumber": 15,
+          "title": "Canto 7 Chapter 15",
+          "verseCount": 126,
+          "path": "data/en-canto-07-chapter-15.json"
+        }
+      ]
+    },
+    {
+      "cantoNumber": 8,
+      "title": "Canto 8",
+      "chapters": [
+        {
+          "chapterNumber": 1,
+          "title": "Canto 8 Chapter 1",
+          "verseCount": 33,
+          "path": "data/en-canto-08-chapter-01.json"
+        },
+        {
+          "chapterNumber": 2,
+          "title": "Canto 8 Chapter 2",
+          "verseCount": 22,
+          "path": "data/en-canto-08-chapter-02.json"
+        },
+        {
+          "chapterNumber": 3,
+          "title": "Canto 8 Chapter 3",
+          "verseCount": 29,
+          "path": "data/en-canto-08-chapter-03.json"
+        },
+        {
+          "chapterNumber": 4,
+          "title": "Canto 8 Chapter 4",
+          "verseCount": 17,
+          "path": "data/en-canto-08-chapter-04.json"
+        },
+        {
+          "chapterNumber": 5,
+          "title": "Canto 8 Chapter 5",
+          "verseCount": 46,
+          "path": "data/en-canto-08-chapter-05.json"
+        },
+        {
+          "chapterNumber": 6,
+          "title": "Canto 8 Chapter 6",
+          "verseCount": 34,
+          "path": "data/en-canto-08-chapter-06.json"
+        },
+        {
+          "chapterNumber": 7,
+          "title": "Canto 8 Chapter 7",
+          "verseCount": 46,
+          "path": "data/en-canto-08-chapter-07.json"
+        },
+        {
+          "chapterNumber": 8,
+          "title": "Canto 8 Chapter 8",
+          "verseCount": 40,
+          "path": "data/en-canto-08-chapter-08.json"
+        },
+        {
+          "chapterNumber": 9,
+          "title": "Canto 8 Chapter 9",
+          "verseCount": 27,
+          "path": "data/en-canto-08-chapter-09.json"
+        },
+        {
+          "chapterNumber": 10,
+          "title": "Canto 8 Chapter 10",
+          "verseCount": 43,
+          "path": "data/en-canto-08-chapter-10.json"
+        },
+        {
+          "chapterNumber": 11,
+          "title": "Canto 8 Chapter 11",
+          "verseCount": 48,
+          "path": "data/en-canto-08-chapter-11.json"
+        },
+        {
+          "chapterNumber": 12,
+          "title": "Canto 8 Chapter 12",
+          "verseCount": 45,
+          "path": "data/en-canto-08-chapter-12.json"
+        },
+        {
+          "chapterNumber": 13,
+          "title": "Canto 8 Chapter 13",
+          "verseCount": 34,
+          "path": "data/en-canto-08-chapter-13.json"
+        },
+        {
+          "chapterNumber": 14,
+          "title": "Canto 8 Chapter 14",
+          "verseCount": 11,
+          "path": "data/en-canto-08-chapter-14.json"
+        },
+        {
+          "chapterNumber": 15,
+          "title": "Canto 8 Chapter 15",
+          "verseCount": 33,
+          "path": "data/en-canto-08-chapter-15.json"
+        },
+        {
+          "chapterNumber": 16,
+          "title": "Canto 8 Chapter 16",
+          "verseCount": 60,
+          "path": "data/en-canto-08-chapter-16.json"
+        },
+        {
+          "chapterNumber": 17,
+          "title": "Canto 8 Chapter 17",
+          "verseCount": 27,
+          "path": "data/en-canto-08-chapter-17.json"
+        },
+        {
+          "chapterNumber": 18,
+          "title": "Canto 8 Chapter 18",
+          "verseCount": 30,
+          "path": "data/en-canto-08-chapter-18.json"
+        },
+        {
+          "chapterNumber": 19,
+          "title": "Canto 8 Chapter 19",
+          "verseCount": 43,
+          "path": "data/en-canto-08-chapter-19.json"
+        },
+        {
+          "chapterNumber": 20,
+          "title": "Canto 8 Chapter 20",
+          "verseCount": 29,
+          "path": "data/en-canto-08-chapter-20.json"
+        },
+        {
+          "chapterNumber": 21,
+          "title": "Canto 8 Chapter 21",
+          "verseCount": 31,
+          "path": "data/en-canto-08-chapter-21.json"
+        },
+        {
+          "chapterNumber": 22,
+          "title": "Canto 8 Chapter 22",
+          "verseCount": 34,
+          "path": "data/en-canto-08-chapter-22.json"
+        },
+        {
+          "chapterNumber": 23,
+          "title": "Canto 8 Chapter 23",
+          "verseCount": 27,
+          "path": "data/en-canto-08-chapter-23.json"
+        },
+        {
+          "chapterNumber": 24,
+          "title": "Canto 8 Chapter 24",
+          "verseCount": 30,
+          "path": "data/en-canto-08-chapter-24.json"
+        }
+      ]
+    },
+    {
+      "cantoNumber": 9,
+      "title": "Canto 9",
+      "chapters": [
+        {
+          "chapterNumber": 1,
+          "title": "Canto 9 Chapter 1",
+          "verseCount": 38,
+          "path": "data/en-canto-09-chapter-01.json"
+        },
+        {
+          "chapterNumber": 2,
+          "title": "Canto 9 Chapter 2",
+          "verseCount": 31,
+          "path": "data/en-canto-09-chapter-02.json"
+        },
+        {
+          "chapterNumber": 3,
+          "title": "Canto 9 Chapter 3",
+          "verseCount": 36,
+          "path": "data/en-canto-09-chapter-03.json"
+        },
+        {
+          "chapterNumber": 4,
+          "title": "Canto 9 Chapter 4",
+          "verseCount": 60,
+          "path": "data/en-canto-09-chapter-04.json"
+        },
+        {
+          "chapterNumber": 5,
+          "title": "Canto 9 Chapter 5",
+          "verseCount": 28,
+          "path": "data/en-canto-09-chapter-05.json"
+        },
+        {
+          "chapterNumber": 6,
+          "title": "Canto 9 Chapter 6",
+          "verseCount": 48,
+          "path": "data/en-canto-09-chapter-06.json"
+        },
+        {
+          "chapterNumber": 7,
+          "title": "Canto 9 Chapter 7",
+          "verseCount": 24,
+          "path": "data/en-canto-09-chapter-07.json"
+        },
+        {
+          "chapterNumber": 8,
+          "title": "Canto 9 Chapter 8",
+          "verseCount": 27,
+          "path": "data/en-canto-09-chapter-08.json"
+        },
+        {
+          "chapterNumber": 9,
+          "title": "Canto 9 Chapter 9",
+          "verseCount": 45,
+          "path": "data/en-canto-09-chapter-09.json"
+        },
+        {
+          "chapterNumber": 10,
+          "title": "Canto 9 Chapter 10",
+          "verseCount": 48,
+          "path": "data/en-canto-09-chapter-10.json"
+        },
+        {
+          "chapterNumber": 11,
+          "title": "Canto 9 Chapter 11",
+          "verseCount": 32,
+          "path": "data/en-canto-09-chapter-11.json"
+        },
+        {
+          "chapterNumber": 12,
+          "title": "Canto 9 Chapter 12",
+          "verseCount": 15,
+          "path": "data/en-canto-09-chapter-12.json"
+        },
+        {
+          "chapterNumber": 13,
+          "title": "Canto 9 Chapter 13",
+          "verseCount": 26,
+          "path": "data/en-canto-09-chapter-13.json"
+        },
+        {
+          "chapterNumber": 14,
+          "title": "Canto 9 Chapter 14",
+          "verseCount": 46,
+          "path": "data/en-canto-09-chapter-14.json"
+        },
+        {
+          "chapterNumber": 15,
+          "title": "Canto 9 Chapter 15",
+          "verseCount": 35,
+          "path": "data/en-canto-09-chapter-15.json"
+        },
+        {
+          "chapterNumber": 16,
+          "title": "Canto 9 Chapter 16",
+          "verseCount": 35,
+          "path": "data/en-canto-09-chapter-16.json"
+        },
+        {
+          "chapterNumber": 17,
+          "title": "Canto 9 Chapter 17",
+          "verseCount": 15,
+          "path": "data/en-canto-09-chapter-17.json"
+        },
+        {
+          "chapterNumber": 18,
+          "title": "Canto 9 Chapter 18",
+          "verseCount": 47,
+          "path": "data/en-canto-09-chapter-18.json"
+        },
+        {
+          "chapterNumber": 19,
+          "title": "Canto 9 Chapter 19",
+          "verseCount": 27,
+          "path": "data/en-canto-09-chapter-19.json"
+        },
+        {
+          "chapterNumber": 20,
+          "title": "Canto 9 Chapter 20",
+          "verseCount": 35,
+          "path": "data/en-canto-09-chapter-20.json"
+        },
+        {
+          "chapterNumber": 21,
+          "title": "Canto 9 Chapter 21",
+          "verseCount": 30,
+          "path": "data/en-canto-09-chapter-21.json"
+        },
+        {
+          "chapterNumber": 22,
+          "title": "Canto 9 Chapter 22",
+          "verseCount": 36,
+          "path": "data/en-canto-09-chapter-22.json"
+        },
+        {
+          "chapterNumber": 23,
+          "title": "Canto 9 Chapter 23",
+          "verseCount": 30,
+          "path": "data/en-canto-09-chapter-23.json"
+        },
+        {
+          "chapterNumber": 24,
+          "title": "Canto 9 Chapter 24",
+          "verseCount": 23,
+          "path": "data/en-canto-09-chapter-24.json"
+        }
+      ]
+    },
+    {
+      "cantoNumber": 10,
+      "title": "Canto 10",
+      "chapters": [
+        {
+          "chapterNumber": 1,
+          "title": "Canto 10 Chapter 1",
+          "verseCount": 63,
+          "path": "data/en-canto-10-chapter-01.json"
+        },
+        {
+          "chapterNumber": 2,
+          "title": "Canto 10 Chapter 2",
+          "verseCount": 39,
+          "path": "data/en-canto-10-chapter-02.json"
+        },
+        {
+          "chapterNumber": 3,
+          "title": "Canto 10 Chapter 3",
+          "verseCount": 42,
+          "path": "data/en-canto-10-chapter-03.json"
+        },
+        {
+          "chapterNumber": 4,
+          "title": "Canto 10 Chapter 4",
+          "verseCount": 45,
+          "path": "data/en-canto-10-chapter-04.json"
+        },
+        {
+          "chapterNumber": 5,
+          "title": "Canto 10 Chapter 5",
+          "verseCount": 30,
+          "path": "data/en-canto-10-chapter-05.json"
+        },
+        {
+          "chapterNumber": 6,
+          "title": "Canto 10 Chapter 6",
+          "verseCount": 34,
+          "path": "data/en-canto-10-chapter-06.json"
+        },
+        {
+          "chapterNumber": 7,
+          "title": "Canto 10 Chapter 7",
+          "verseCount": 33,
+          "path": "data/en-canto-10-chapter-07.json"
+        },
+        {
+          "chapterNumber": 8,
+          "title": "Canto 10 Chapter 8",
+          "verseCount": 49,
+          "path": "data/en-canto-10-chapter-08.json"
+        },
+        {
+          "chapterNumber": 9,
+          "title": "Canto 10 Chapter 9",
+          "verseCount": 21,
+          "path": "data/en-canto-10-chapter-09.json"
+        },
+        {
+          "chapterNumber": 10,
+          "title": "Canto 10 Chapter 10",
+          "verseCount": 38,
+          "path": "data/en-canto-10-chapter-10.json"
+        },
+        {
+          "chapterNumber": 11,
+          "title": "Canto 10 Chapter 11",
+          "verseCount": 57,
+          "path": "data/en-canto-10-chapter-11.json"
+        },
+        {
+          "chapterNumber": 12,
+          "title": "Canto 10 Chapter 12",
+          "verseCount": 40,
+          "path": "data/en-canto-10-chapter-12.json"
+        },
+        {
+          "chapterNumber": 13,
+          "title": "Canto 10 Chapter 13",
+          "verseCount": 63,
+          "path": "data/en-canto-10-chapter-13.json"
+        },
+        {
+          "chapterNumber": 14,
+          "title": "Canto 10 Chapter 14",
+          "verseCount": 61,
+          "path": "data/en-canto-10-chapter-14.json"
+        },
+        {
+          "chapterNumber": 15,
+          "title": "Canto 10 Chapter 15",
+          "verseCount": 49,
+          "path": "data/en-canto-10-chapter-15.json"
+        },
+        {
+          "chapterNumber": 16,
+          "title": "Canto 10 Chapter 16",
+          "verseCount": 62,
+          "path": "data/en-canto-10-chapter-16.json"
+        },
+        {
+          "chapterNumber": 17,
+          "title": "Canto 10 Chapter 17",
+          "verseCount": 23,
+          "path": "data/en-canto-10-chapter-17.json"
+        },
+        {
+          "chapterNumber": 18,
+          "title": "Canto 10 Chapter 18",
+          "verseCount": 32,
+          "path": "data/en-canto-10-chapter-18.json"
+        },
+        {
+          "chapterNumber": 19,
+          "title": "Canto 10 Chapter 19",
+          "verseCount": 16,
+          "path": "data/en-canto-10-chapter-19.json"
+        },
+        {
+          "chapterNumber": 20,
+          "title": "Canto 10 Chapter 20",
+          "verseCount": 48,
+          "path": "data/en-canto-10-chapter-20.json"
+        },
+        {
+          "chapterNumber": 21,
+          "title": "Canto 10 Chapter 21",
+          "verseCount": 20,
+          "path": "data/en-canto-10-chapter-21.json"
+        },
+        {
+          "chapterNumber": 22,
+          "title": "Canto 10 Chapter 22",
+          "verseCount": 36,
+          "path": "data/en-canto-10-chapter-22.json"
+        },
+        {
+          "chapterNumber": 23,
+          "title": "Canto 10 Chapter 23",
+          "verseCount": 48,
+          "path": "data/en-canto-10-chapter-23.json"
+        },
+        {
+          "chapterNumber": 24,
+          "title": "Canto 10 Chapter 24",
+          "verseCount": 37,
+          "path": "data/en-canto-10-chapter-24.json"
+        },
+        {
+          "chapterNumber": 25,
+          "title": "Canto 10 Chapter 25",
+          "verseCount": 33,
+          "path": "data/en-canto-10-chapter-25.json"
+        },
+        {
+          "chapterNumber": 26,
+          "title": "Canto 10 Chapter 26",
+          "verseCount": 25,
+          "path": "data/en-canto-10-chapter-26.json"
+        },
+        {
+          "chapterNumber": 27,
+          "title": "Canto 10 Chapter 27",
+          "verseCount": 27,
+          "path": "data/en-canto-10-chapter-27.json"
+        },
+        {
+          "chapterNumber": 28,
+          "title": "Canto 10 Chapter 28",
+          "verseCount": 17,
+          "path": "data/en-canto-10-chapter-28.json"
+        },
+        {
+          "chapterNumber": 29,
+          "title": "Canto 10 Chapter 29",
+          "verseCount": 44,
+          "path": "data/en-canto-10-chapter-29.json"
+        },
+        {
+          "chapterNumber": 30,
+          "title": "Canto 10 Chapter 30",
+          "verseCount": 43,
+          "path": "data/en-canto-10-chapter-30.json"
+        },
+        {
+          "chapterNumber": 31,
+          "title": "Canto 10 Chapter 31",
+          "verseCount": 19,
+          "path": "data/en-canto-10-chapter-31.json"
+        },
+        {
+          "chapterNumber": 32,
+          "title": "Canto 10 Chapter 32",
+          "verseCount": 21,
+          "path": "data/en-canto-10-chapter-32.json"
+        },
+        {
+          "chapterNumber": 33,
+          "title": "Canto 10 Chapter 33",
+          "verseCount": 38,
+          "path": "data/en-canto-10-chapter-33.json"
+        },
+        {
+          "chapterNumber": 34,
+          "title": "Canto 10 Chapter 34",
+          "verseCount": 31,
+          "path": "data/en-canto-10-chapter-34.json"
+        },
+        {
+          "chapterNumber": 35,
+          "title": "Canto 10 Chapter 35",
+          "verseCount": 13,
+          "path": "data/en-canto-10-chapter-35.json"
+        },
+        {
+          "chapterNumber": 36,
+          "title": "Canto 10 Chapter 36",
+          "verseCount": 38,
+          "path": "data/en-canto-10-chapter-36.json"
+        },
+        {
+          "chapterNumber": 37,
+          "title": "Canto 10 Chapter 37",
+          "verseCount": 26,
+          "path": "data/en-canto-10-chapter-37.json"
+        },
+        {
+          "chapterNumber": 38,
+          "title": "Canto 10 Chapter 38",
+          "verseCount": 37,
+          "path": "data/en-canto-10-chapter-38.json"
+        },
+        {
+          "chapterNumber": 39,
+          "title": "Canto 10 Chapter 39",
+          "verseCount": 46,
+          "path": "data/en-canto-10-chapter-39.json"
+        },
+        {
+          "chapterNumber": 40,
+          "title": "Canto 10 Chapter 40",
+          "verseCount": 28,
+          "path": "data/en-canto-10-chapter-40.json"
+        },
+        {
+          "chapterNumber": 41,
+          "title": "Canto 10 Chapter 41",
+          "verseCount": 49,
+          "path": "data/en-canto-10-chapter-41.json"
+        },
+        {
+          "chapterNumber": 42,
+          "title": "Canto 10 Chapter 42",
+          "verseCount": 34,
+          "path": "data/en-canto-10-chapter-42.json"
+        },
+        {
+          "chapterNumber": 43,
+          "title": "Canto 10 Chapter 43",
+          "verseCount": 38,
+          "path": "data/en-canto-10-chapter-43.json"
+        },
+        {
+          "chapterNumber": 44,
+          "title": "Canto 10 Chapter 44",
+          "verseCount": 49,
+          "path": "data/en-canto-10-chapter-44.json"
+        },
+        {
+          "chapterNumber": 45,
+          "title": "Canto 10 Chapter 45",
+          "verseCount": 44,
+          "path": "data/en-canto-10-chapter-45.json"
+        },
+        {
+          "chapterNumber": 46,
+          "title": "Canto 10 Chapter 46",
+          "verseCount": 44,
+          "path": "data/en-canto-10-chapter-46.json"
+        },
+        {
+          "chapterNumber": 47,
+          "title": "Canto 10 Chapter 47",
+          "verseCount": 67,
+          "path": "data/en-canto-10-chapter-47.json"
+        },
+        {
+          "chapterNumber": 48,
+          "title": "Canto 10 Chapter 48",
+          "verseCount": 34,
+          "path": "data/en-canto-10-chapter-48.json"
+        },
+        {
+          "chapterNumber": 49,
+          "title": "Canto 10 Chapter 49",
+          "verseCount": 29,
+          "path": "data/en-canto-10-chapter-49.json"
+        },
+        {
+          "chapterNumber": 50,
+          "title": "Canto 10 Chapter 50",
+          "verseCount": 45,
+          "path": "data/en-canto-10-chapter-50.json"
+        },
+        {
+          "chapterNumber": 51,
+          "title": "Canto 10 Chapter 51",
+          "verseCount": 54,
+          "path": "data/en-canto-10-chapter-51.json"
+        },
+        {
+          "chapterNumber": 52,
+          "title": "Canto 10 Chapter 52",
+          "verseCount": 43,
+          "path": "data/en-canto-10-chapter-52.json"
+        },
+        {
+          "chapterNumber": 53,
+          "title": "Canto 10 Chapter 53",
+          "verseCount": 47,
+          "path": "data/en-canto-10-chapter-53.json"
+        },
+        {
+          "chapterNumber": 54,
+          "title": "Canto 10 Chapter 54",
+          "verseCount": 59,
+          "path": "data/en-canto-10-chapter-54.json"
+        },
+        {
+          "chapterNumber": 55,
+          "title": "Canto 10 Chapter 55",
+          "verseCount": 38,
+          "path": "data/en-canto-10-chapter-55.json"
+        },
+        {
+          "chapterNumber": 56,
+          "title": "Canto 10 Chapter 56",
+          "verseCount": 42,
+          "path": "data/en-canto-10-chapter-56.json"
+        },
+        {
+          "chapterNumber": 57,
+          "title": "Canto 10 Chapter 57",
+          "verseCount": 39,
+          "path": "data/en-canto-10-chapter-57.json"
+        },
+        {
+          "chapterNumber": 58,
+          "title": "Canto 10 Chapter 58",
+          "verseCount": 56,
+          "path": "data/en-canto-10-chapter-58.json"
+        },
+        {
+          "chapterNumber": 59,
+          "title": "Canto 10 Chapter 59",
+          "verseCount": 41,
+          "path": "data/en-canto-10-chapter-59.json"
+        },
+        {
+          "chapterNumber": 60,
+          "title": "Canto 10 Chapter 60",
+          "verseCount": 55,
+          "path": "data/en-canto-10-chapter-60.json"
+        },
+        {
+          "chapterNumber": 61,
+          "title": "Canto 10 Chapter 61",
+          "verseCount": 36,
+          "path": "data/en-canto-10-chapter-61.json"
+        },
+        {
+          "chapterNumber": 62,
+          "title": "Canto 10 Chapter 62",
+          "verseCount": 29,
+          "path": "data/en-canto-10-chapter-62.json"
+        },
+        {
+          "chapterNumber": 63,
+          "title": "Canto 10 Chapter 63",
+          "verseCount": 50,
+          "path": "data/en-canto-10-chapter-63.json"
+        },
+        {
+          "chapterNumber": 64,
+          "title": "Canto 10 Chapter 64",
+          "verseCount": 40,
+          "path": "data/en-canto-10-chapter-64.json"
+        },
+        {
+          "chapterNumber": 65,
+          "title": "Canto 10 Chapter 65",
+          "verseCount": 30,
+          "path": "data/en-canto-10-chapter-65.json"
+        },
+        {
+          "chapterNumber": 66,
+          "title": "Canto 10 Chapter 66",
+          "verseCount": 38,
+          "path": "data/en-canto-10-chapter-66.json"
+        },
+        {
+          "chapterNumber": 67,
+          "title": "Canto 10 Chapter 67",
+          "verseCount": 24,
+          "path": "data/en-canto-10-chapter-67.json"
+        },
+        {
+          "chapterNumber": 68,
+          "title": "Canto 10 Chapter 68",
+          "verseCount": 49,
+          "path": "data/en-canto-10-chapter-68.json"
+        },
+        {
+          "chapterNumber": 69,
+          "title": "Canto 10 Chapter 69",
+          "verseCount": 34,
+          "path": "data/en-canto-10-chapter-69.json"
+        },
+        {
+          "chapterNumber": 70,
+          "title": "Canto 10 Chapter 70",
+          "verseCount": 44,
+          "path": "data/en-canto-10-chapter-70.json"
+        },
+        {
+          "chapterNumber": 71,
+          "title": "Canto 10 Chapter 71",
+          "verseCount": 42,
+          "path": "data/en-canto-10-chapter-71.json"
+        },
+        {
+          "chapterNumber": 72,
+          "title": "Canto 10 Chapter 72",
+          "verseCount": 44,
+          "path": "data/en-canto-10-chapter-72.json"
+        },
+        {
+          "chapterNumber": 73,
+          "title": "Canto 10 Chapter 73",
+          "verseCount": 29,
+          "path": "data/en-canto-10-chapter-73.json"
+        },
+        {
+          "chapterNumber": 74,
+          "title": "Canto 10 Chapter 74",
+          "verseCount": 46,
+          "path": "data/en-canto-10-chapter-74.json"
+        },
+        {
+          "chapterNumber": 75,
+          "title": "Canto 10 Chapter 75",
+          "verseCount": 34,
+          "path": "data/en-canto-10-chapter-75.json"
+        },
+        {
+          "chapterNumber": 76,
+          "title": "Canto 10 Chapter 76",
+          "verseCount": 29,
+          "path": "data/en-canto-10-chapter-76.json"
+        },
+        {
+          "chapterNumber": 77,
+          "title": "Canto 10 Chapter 77",
+          "verseCount": 35,
+          "path": "data/en-canto-10-chapter-77.json"
+        },
+        {
+          "chapterNumber": 78,
+          "title": "Canto 10 Chapter 78",
+          "verseCount": 34,
+          "path": "data/en-canto-10-chapter-78.json"
+        },
+        {
+          "chapterNumber": 79,
+          "title": "Canto 10 Chapter 79",
+          "verseCount": 26,
+          "path": "data/en-canto-10-chapter-79.json"
+        },
+        {
+          "chapterNumber": 80,
+          "title": "Canto 10 Chapter 80",
+          "verseCount": 39,
+          "path": "data/en-canto-10-chapter-80.json"
+        },
+        {
+          "chapterNumber": 81,
+          "title": "Canto 10 Chapter 81",
+          "verseCount": 34,
+          "path": "data/en-canto-10-chapter-81.json"
+        },
+        {
+          "chapterNumber": 82,
+          "title": "Canto 10 Chapter 82",
+          "verseCount": 39,
+          "path": "data/en-canto-10-chapter-82.json"
+        },
+        {
+          "chapterNumber": 83,
+          "title": "Canto 10 Chapter 83",
+          "verseCount": 38,
+          "path": "data/en-canto-10-chapter-83.json"
+        },
+        {
+          "chapterNumber": 84,
+          "title": "Canto 10 Chapter 84",
+          "verseCount": 62,
+          "path": "data/en-canto-10-chapter-84.json"
+        },
+        {
+          "chapterNumber": 85,
+          "title": "Canto 10 Chapter 85",
+          "verseCount": 53,
+          "path": "data/en-canto-10-chapter-85.json"
+        },
+        {
+          "chapterNumber": 86,
+          "title": "Canto 10 Chapter 86",
+          "verseCount": 56,
+          "path": "data/en-canto-10-chapter-86.json"
+        },
+        {
+          "chapterNumber": 87,
+          "title": "Canto 10 Chapter 87",
+          "verseCount": 49,
+          "path": "data/en-canto-10-chapter-87.json"
+        },
+        {
+          "chapterNumber": 88,
+          "title": "Canto 10 Chapter 88",
+          "verseCount": 36,
+          "path": "data/en-canto-10-chapter-88.json"
+        },
+        {
+          "chapterNumber": 89,
+          "title": "Canto 10 Chapter 89",
+          "verseCount": 52,
+          "path": "data/en-canto-10-chapter-89.json"
+        },
+        {
+          "chapterNumber": 90,
+          "title": "Canto 10 Chapter 90",
+          "verseCount": 47,
+          "path": "data/en-canto-10-chapter-90.json"
+        }
+      ]
+    },
+    {
+      "cantoNumber": 11,
+      "title": "Canto 11",
+      "chapters": [
+        {
+          "chapterNumber": 1,
+          "title": "Canto 11 Chapter 1",
+          "verseCount": 20,
+          "path": "data/en-canto-11-chapter-01.json"
+        },
+        {
+          "chapterNumber": 2,
+          "title": "Canto 11 Chapter 2",
+          "verseCount": 54,
+          "path": "data/en-canto-11-chapter-02.json"
+        },
+        {
+          "chapterNumber": 3,
+          "title": "Canto 11 Chapter 3",
+          "verseCount": 52,
+          "path": "data/en-canto-11-chapter-03.json"
+        },
+        {
+          "chapterNumber": 4,
+          "title": "Canto 11 Chapter 4",
+          "verseCount": 23,
+          "path": "data/en-canto-11-chapter-04.json"
+        },
+        {
+          "chapterNumber": 5,
+          "title": "Canto 11 Chapter 5",
+          "verseCount": 49,
+          "path": "data/en-canto-11-chapter-05.json"
+        },
+        {
+          "chapterNumber": 6,
+          "title": "Canto 11 Chapter 6",
+          "verseCount": 44,
+          "path": "data/en-canto-11-chapter-06.json"
+        },
+        {
+          "chapterNumber": 7,
+          "title": "Canto 11 Chapter 7",
+          "verseCount": 72,
+          "path": "data/en-canto-11-chapter-07.json"
+        },
+        {
+          "chapterNumber": 8,
+          "title": "Canto 11 Chapter 8",
+          "verseCount": 43,
+          "path": "data/en-canto-11-chapter-08.json"
+        },
+        {
+          "chapterNumber": 9,
+          "title": "Canto 11 Chapter 9",
+          "verseCount": 32,
+          "path": "data/en-canto-11-chapter-09.json"
+        },
+        {
+          "chapterNumber": 10,
+          "title": "Canto 11 Chapter 10",
+          "verseCount": 32,
+          "path": "data/en-canto-11-chapter-10.json"
+        },
+        {
+          "chapterNumber": 11,
+          "title": "Canto 11 Chapter 11",
+          "verseCount": 34,
+          "path": "data/en-canto-11-chapter-11.json"
+        },
+        {
+          "chapterNumber": 12,
+          "title": "Canto 11 Chapter 12",
+          "verseCount": 18,
+          "path": "data/en-canto-11-chapter-12.json"
+        },
+        {
+          "chapterNumber": 13,
+          "title": "Canto 11 Chapter 13",
+          "verseCount": 41,
+          "path": "data/en-canto-11-chapter-13.json"
+        },
+        {
+          "chapterNumber": 14,
+          "title": "Canto 11 Chapter 14",
+          "verseCount": 37,
+          "path": "data/en-canto-11-chapter-14.json"
+        },
+        {
+          "chapterNumber": 15,
+          "title": "Canto 11 Chapter 15",
+          "verseCount": 33,
+          "path": "data/en-canto-11-chapter-15.json"
+        },
+        {
+          "chapterNumber": 16,
+          "title": "Canto 11 Chapter 16",
+          "verseCount": 44,
+          "path": "data/en-canto-11-chapter-16.json"
+        },
+        {
+          "chapterNumber": 17,
+          "title": "Canto 11 Chapter 17",
+          "verseCount": 54,
+          "path": "data/en-canto-11-chapter-17.json"
+        },
+        {
+          "chapterNumber": 18,
+          "title": "Canto 11 Chapter 18",
+          "verseCount": 47,
+          "path": "data/en-canto-11-chapter-18.json"
+        },
+        {
+          "chapterNumber": 19,
+          "title": "Canto 11 Chapter 19",
+          "verseCount": 27,
+          "path": "data/en-canto-11-chapter-19.json"
+        },
+        {
+          "chapterNumber": 20,
+          "title": "Canto 11 Chapter 20",
+          "verseCount": 35,
+          "path": "data/en-canto-11-chapter-20.json"
+        },
+        {
+          "chapterNumber": 21,
+          "title": "Canto 11 Chapter 21",
+          "verseCount": 39,
+          "path": "data/en-canto-11-chapter-21.json"
+        },
+        {
+          "chapterNumber": 22,
+          "title": "Canto 11 Chapter 22",
+          "verseCount": 56,
+          "path": "data/en-canto-11-chapter-22.json"
+        },
+        {
+          "chapterNumber": 23,
+          "title": "Canto 11 Chapter 23",
+          "verseCount": 59,
+          "path": "data/en-canto-11-chapter-23.json"
+        },
+        {
+          "chapterNumber": 24,
+          "title": "Canto 11 Chapter 24",
+          "verseCount": 24,
+          "path": "data/en-canto-11-chapter-24.json"
+        },
+        {
+          "chapterNumber": 25,
+          "title": "Canto 11 Chapter 25",
+          "verseCount": 33,
+          "path": "data/en-canto-11-chapter-25.json"
+        },
+        {
+          "chapterNumber": 26,
+          "title": "Canto 11 Chapter 26",
+          "verseCount": 34,
+          "path": "data/en-canto-11-chapter-26.json"
+        },
+        {
+          "chapterNumber": 27,
+          "title": "Canto 11 Chapter 27",
+          "verseCount": 48,
+          "path": "data/en-canto-11-chapter-27.json"
+        },
+        {
+          "chapterNumber": 28,
+          "title": "Canto 11 Chapter 28",
+          "verseCount": 43,
+          "path": "data/en-canto-11-chapter-28.json"
+        },
+        {
+          "chapterNumber": 29,
+          "title": "Canto 11 Chapter 29",
+          "verseCount": 45,
+          "path": "data/en-canto-11-chapter-29.json"
+        },
+        {
+          "chapterNumber": 30,
+          "title": "Canto 11 Chapter 30",
+          "verseCount": 46,
+          "path": "data/en-canto-11-chapter-30.json"
+        },
+        {
+          "chapterNumber": 31,
+          "title": "Canto 11 Chapter 31",
+          "verseCount": 26,
+          "path": "data/en-canto-11-chapter-31.json"
+        }
+      ]
+    },
+    {
+      "cantoNumber": 12,
+      "title": "Canto 12",
+      "chapters": [
+        {
+          "chapterNumber": 1,
+          "title": "Canto 12 Chapter 1",
+          "verseCount": 27,
+          "path": "data/en-canto-12-chapter-01.json"
+        },
+        {
+          "chapterNumber": 2,
+          "title": "Canto 12 Chapter 2",
+          "verseCount": 38,
+          "path": "data/en-canto-12-chapter-02.json"
+        },
+        {
+          "chapterNumber": 3,
+          "title": "Canto 12 Chapter 3",
+          "verseCount": 46,
+          "path": "data/en-canto-12-chapter-03.json"
+        },
+        {
+          "chapterNumber": 4,
+          "title": "Canto 12 Chapter 4",
+          "verseCount": 38,
+          "path": "data/en-canto-12-chapter-04.json"
+        },
+        {
+          "chapterNumber": 5,
+          "title": "Canto 12 Chapter 5",
+          "verseCount": 12,
+          "path": "data/en-canto-12-chapter-05.json"
+        },
+        {
+          "chapterNumber": 6,
+          "title": "Canto 12 Chapter 6",
+          "verseCount": 71,
+          "path": "data/en-canto-12-chapter-06.json"
+        },
+        {
+          "chapterNumber": 7,
+          "title": "Canto 12 Chapter 7",
+          "verseCount": 23,
+          "path": "data/en-canto-12-chapter-07.json"
+        },
+        {
+          "chapterNumber": 8,
+          "title": "Canto 12 Chapter 8",
+          "verseCount": 38,
+          "path": "data/en-canto-12-chapter-08.json"
+        },
+        {
+          "chapterNumber": 9,
+          "title": "Canto 12 Chapter 9",
+          "verseCount": 27,
+          "path": "data/en-canto-12-chapter-09.json"
+        },
+        {
+          "chapterNumber": 10,
+          "title": "Canto 12 Chapter 10",
+          "verseCount": 38,
+          "path": "data/en-canto-12-chapter-10.json"
+        },
+        {
+          "chapterNumber": 11,
+          "title": "Canto 12 Chapter 11",
+          "verseCount": 43,
+          "path": "data/en-canto-12-chapter-11.json"
+        },
+        {
+          "chapterNumber": 12,
+          "title": "Canto 12 Chapter 12",
+          "verseCount": 62,
+          "path": "data/en-canto-12-chapter-12.json"
+        },
+        {
+          "chapterNumber": 13,
+          "title": "Canto 12 Chapter 13",
+          "verseCount": 17,
+          "path": "data/en-canto-12-chapter-13.json"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "generatedAt": "2026-03-11T09:31:35.332Z",
+  "source": "Curated Potana Bhagavatam starter dataset for initial reader build",
+  "status": "partial",
+  "note": "Full Telugu Potana extraction is pending because the source corpus is not currently available as a stable machine-readable dataset.",
+  "cantos": [
+    {
+      "cantoNumber": 1,
+      "title": "ప్రథమ స్కంధము",
+      "chapters": [
+        {
+          "chapterNumber": 1,
+          "title": "మంగళాచరణము",
+          "verseCount": 3,
+          "path": "data/te-canto-01-chapter-01.json"
+        }
+      ]
+    }
+  ]
+}

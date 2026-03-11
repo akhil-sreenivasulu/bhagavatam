@@ -1,0 +1,30 @@
+{
+  "cantoNumber": 1,
+  "chapterNumber": 1,
+  "title": "మంగళాచరణము",
+  "summary": "పోతన భాగవతం కోసం ప్రత్యేకంగా ఉంచిన ప్రారంభ తెలుగు పఠన నమూనా. పూర్తి పాఠ్యాన్ని తరువాతి దశలో విస్తరించడానికి ఈ నిర్మాణం సిద్ధంగా ఉంది.",
+  "sourceNote": "ఇది ప్రారంభ నావిగేషన్ నమూనా కోసం తయారు చేసిన తెలుగు JSON. పూర్తి పోతన భాగవతం తరువాతి డేటా విస్తరణలో చేరుతుంది.",
+  "verses": [
+    {
+      "verseNumber": 1,
+      "text": "శ్రీకైవల్యపదంబుం జేరుటకునై చింతించెదన్ లోకరక్షా\nకారంభకు భక్తపాలన కళాసంరంభకున్ దానవోద్ధారకున్",
+      "transliteration": "Sri-kaivalya-padambum jerutakunai cintincedan loka-raksha karambhaku bhakta-palana kala-samrambhakun danavoddharakun.",
+      "meaning": "లోకరక్షణకు, భక్తపాలనకు, దుష్ట సంహారానికి అవతరించిన దైవంపై ధ్యానం చేస్తూ కవి మంగళారంభం చేస్తున్నాడు.",
+      "wordMeanings": "పోతన ప్రార్థనా స్వరంతో ప్రారంభించే మంగళ పద్యరూప శైలి."
+    },
+    {
+      "verseNumber": 2,
+      "text": "గోకులనందనుడై గోపకుమారుడై గోపాంగనాలోలుడై\nశ్రీకరుణారసపూర్ణుడై శరణాగత జనావనుడై వెలసే",
+      "transliteration": "Gokula-nandanudai gopa-kumarudai gopangana-loludai sri-karuna-rasa-purnudai saranagata-janavanudai velase.",
+      "meaning": "గోకులానందకరుడైన, కరుణాసాగరుడైన శ్రీకృష్ణుడు శరణాగతులను రక్షించువాడని పద్యం స్మరింపజేస్తుంది.",
+      "wordMeanings": "కృష్ణుని లీలామాధుర్యాన్ని మరియు కరుణను కేంద్రీకరించిన తెలుగు కవితా శైలి."
+    },
+    {
+      "verseNumber": 3,
+      "text": "భాగవతాంబుధి మాధురిమంబు రసికులెన్నడు తీరని పానమై\nపోతన వాగమృతంబు భువనమందు పరిమళింపగా వెలుగున్",
+      "transliteration": "Bhagavatambudhi madhurimambu rasikulennadu tirani panamai Potana vagamrutambu bhuvanamandu parimalimpaga velugun.",
+      "meaning": "భాగవతరసము ఎప్పటికీ తృప్తి ఇవ్వని అమృతపానమని, పోతన వాక్కు దానికి సుగంధం జోడిస్తుందని ఈ పద్యం సూచిస్తుంది.",
+      "wordMeanings": "రసికపఠనాన్ని ముందుకు తీసుకెళ్లే భాగవత సాహిత్య స్వరూపంపై కేంద్రీకృతమైన పద్యం."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bhagavatam Reader</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body class="reader-body" data-language="en">
+    <div class="page-shell">
+      <aside class="sidebar" id="sidebar"></aside>
+
+      <main class="main-panel">
+        <section class="top-strip">
+          <button class="secondary-link button-link" id="sidebarToggle" type="button">Sections</button>
+          <a class="secondary-link" href="index.html">Home</a>
+          <a class="secondary-link" href="telugu.html">తెలుగు</a>
+        </section>
+
+        <section class="control-bar">
+          <div class="verse-rail" id="verseNav"></div>
+          <div class="chapter-rail" id="chapterNav"></div>
+        </section>
+
+        <article class="shloka-card">
+          <div class="verse-header">
+            <div>
+              <p class="eyebrow" id="verseLocation">Verse</p>
+              <h1 id="chapterTitle">Loading...</h1>
+            </div>
+            <div class="jump-actions">
+              <button id="prevVerse" type="button">Prev</button>
+              <button id="nextVerse" type="button">Next</button>
+            </div>
+          </div>
+
+          <p class="chapter-summary" id="chapterSummary"></p>
+          <div class="chapter-meta" id="chapterMeta"></div>
+
+          <div class="shloka-text" id="verseText"></div>
+          <div class="transliteration" id="transliteration"></div>
+
+          <div class="meaning-block">
+            <h2 id="meaningHeading">Meaning</h2>
+            <p id="verseMeaning"></p>
+          </div>
+
+          <details class="word-meanings">
+            <summary id="wordMeaningLabel">Purport / Notes</summary>
+            <p id="wordMeanings"></p>
+          </details>
+        </article>
+
+        <section class="dropdown-nav-card">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow" id="dropdownEyebrow">Quick Navigation</p>
+              <h2 id="dropdownHeading">Choose canto, chapter, and verse</h2>
+            </div>
+          </div>
+          <div class="dropdown-nav triple-nav">
+            <label class="dropdown-field">
+              <span id="cantoSelectLabel">Canto</span>
+              <select id="cantoSelect"></select>
+            </label>
+            <label class="dropdown-field">
+              <span id="chapterSelectLabel">Chapter</span>
+              <select id="chapterSelect"></select>
+            </label>
+            <label class="dropdown-field">
+              <span id="verseSelectLabel">Verse</span>
+              <select id="verseSelect"></select>
+            </label>
+          </div>
+        </section>
+
+        <section class="jump-grid-wrap">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow" id="jumpEyebrow">Jump To Any Shloka</p>
+              <h2 id="jumpHeading">Verse Navigator</h2>
+            </div>
+            <p id="jumpLabel"></p>
+          </div>
+          <div class="jump-grid" id="jumpGrid"></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
