@@ -1,18 +1,618 @@
 {
-  "generatedAt": "2026-03-11T09:31:35.332Z",
-  "source": "Curated Potana Bhagavatam starter dataset for initial reader build",
-  "status": "partial",
-  "note": "Full Telugu Potana extraction is pending because the source corpus is not currently available as a stable machine-readable dataset.",
+  "generatedAt": "2026-03-11T10:13:10.813Z",
+  "source": "Local generated Telugu Bhagavatam dataset",
+  "status": "partial-machine-translated",
+  "note": "Manifest rebuilt from Telugu chapter files currently generated on disk.",
   "cantos": [
     {
       "cantoNumber": 1,
-      "title": "ప్రథమ స్కంధము",
+      "title": "Canto 1",
       "chapters": [
         {
           "chapterNumber": 1,
-          "title": "మంగళాచరణము",
-          "verseCount": 3,
+          "title": "స్కంధము 1 అధ్యాయం 1",
+          "verseCount": 23,
           "path": "data/te-canto-01-chapter-01.json"
+        },
+        {
+          "chapterNumber": 2,
+          "title": "స్కంధము 1 అధ్యాయం 2",
+          "verseCount": 33,
+          "path": "data/te-canto-01-chapter-02.json"
+        },
+        {
+          "chapterNumber": 3,
+          "title": "స్కంధము 1 అధ్యాయం 3",
+          "verseCount": 44,
+          "path": "data/te-canto-01-chapter-03.json"
+        },
+        {
+          "chapterNumber": 4,
+          "title": "స్కంధము 1 అధ్యాయం 4",
+          "verseCount": 31,
+          "path": "data/te-canto-01-chapter-04.json"
+        },
+        {
+          "chapterNumber": 5,
+          "title": "స్కంధము 1 అధ్యాయం 5",
+          "verseCount": 40,
+          "path": "data/te-canto-01-chapter-05.json"
+        },
+        {
+          "chapterNumber": 6,
+          "title": "స్కంధము 1 అధ్యాయం 6",
+          "verseCount": 38,
+          "path": "data/te-canto-01-chapter-06.json"
+        },
+        {
+          "chapterNumber": 7,
+          "title": "స్కంధము 1 అధ్యాయం 7",
+          "verseCount": 56,
+          "path": "data/te-canto-01-chapter-07.json"
+        },
+        {
+          "chapterNumber": 8,
+          "title": "స్కంధము 1 అధ్యాయం 8",
+          "verseCount": 52,
+          "path": "data/te-canto-01-chapter-08.json"
+        },
+        {
+          "chapterNumber": 9,
+          "title": "స్కంధము 1 అధ్యాయం 9",
+          "verseCount": 48,
+          "path": "data/te-canto-01-chapter-09.json"
+        },
+        {
+          "chapterNumber": 10,
+          "title": "స్కంధము 1 అధ్యాయం 10",
+          "verseCount": 33,
+          "path": "data/te-canto-01-chapter-10.json"
+        },
+        {
+          "chapterNumber": 11,
+          "title": "స్కంధము 1 అధ్యాయం 11",
+          "verseCount": 37,
+          "path": "data/te-canto-01-chapter-11.json"
+        },
+        {
+          "chapterNumber": 12,
+          "title": "స్కంధము 1 అధ్యాయం 12",
+          "verseCount": 36,
+          "path": "data/te-canto-01-chapter-12.json"
+        },
+        {
+          "chapterNumber": 13,
+          "title": "స్కంధము 1 అధ్యాయం 13",
+          "verseCount": 59,
+          "path": "data/te-canto-01-chapter-13.json"
+        },
+        {
+          "chapterNumber": 14,
+          "title": "స్కంధము 1 అధ్యాయం 14",
+          "verseCount": 41,
+          "path": "data/te-canto-01-chapter-14.json"
+        },
+        {
+          "chapterNumber": 15,
+          "title": "స్కంధము 1 అధ్యాయం 15",
+          "verseCount": 48,
+          "path": "data/te-canto-01-chapter-15.json"
+        },
+        {
+          "chapterNumber": 16,
+          "title": "స్కంధము 1 అధ్యాయం 16",
+          "verseCount": 29,
+          "path": "data/te-canto-01-chapter-16.json"
+        },
+        {
+          "chapterNumber": 17,
+          "title": "స్కంధము 1 అధ్యాయం 17",
+          "verseCount": 43,
+          "path": "data/te-canto-01-chapter-17.json"
+        },
+        {
+          "chapterNumber": 18,
+          "title": "స్కంధము 1 అధ్యాయం 18",
+          "verseCount": 49,
+          "path": "data/te-canto-01-chapter-18.json"
+        },
+        {
+          "chapterNumber": 19,
+          "title": "స్కంధము 1 అధ్యాయం 19",
+          "verseCount": 50,
+          "path": "data/te-canto-01-chapter-19.json"
+        }
+      ]
+    },
+    {
+      "cantoNumber": 2,
+      "title": "Canto 2",
+      "chapters": [
+        {
+          "chapterNumber": 1,
+          "title": "స్కంధము 2 అధ్యాయం 1",
+          "verseCount": 39,
+          "path": "data/te-canto-02-chapter-01.json"
+        },
+        {
+          "chapterNumber": 2,
+          "title": "స్కంధము 2 అధ్యాయం 2",
+          "verseCount": 37,
+          "path": "data/te-canto-02-chapter-02.json"
+        },
+        {
+          "chapterNumber": 3,
+          "title": "స్కంధము 2 అధ్యాయం 3",
+          "verseCount": 20,
+          "path": "data/te-canto-02-chapter-03.json"
+        },
+        {
+          "chapterNumber": 4,
+          "title": "స్కంధము 2 అధ్యాయం 4",
+          "verseCount": 24,
+          "path": "data/te-canto-02-chapter-04.json"
+        },
+        {
+          "chapterNumber": 5,
+          "title": "స్కంధము 2 అధ్యాయం 5",
+          "verseCount": 38,
+          "path": "data/te-canto-02-chapter-05.json"
+        },
+        {
+          "chapterNumber": 6,
+          "title": "స్కంధము 2 అధ్యాయం 6",
+          "verseCount": 40,
+          "path": "data/te-canto-02-chapter-06.json"
+        },
+        {
+          "chapterNumber": 7,
+          "title": "స్కంధము 2 అధ్యాయం 7",
+          "verseCount": 50,
+          "path": "data/te-canto-02-chapter-07.json"
+        },
+        {
+          "chapterNumber": 8,
+          "title": "స్కంధము 2 అధ్యాయం 8",
+          "verseCount": 29,
+          "path": "data/te-canto-02-chapter-08.json"
+        },
+        {
+          "chapterNumber": 9,
+          "title": "స్కంధము 2 అధ్యాయం 9",
+          "verseCount": 46,
+          "path": "data/te-canto-02-chapter-09.json"
+        },
+        {
+          "chapterNumber": 10,
+          "title": "స్కంధము 2 అధ్యాయం 10",
+          "verseCount": 80,
+          "path": "data/te-canto-02-chapter-10.json"
+        }
+      ]
+    },
+    {
+      "cantoNumber": 3,
+      "title": "Canto 3",
+      "chapters": [
+        {
+          "chapterNumber": 1,
+          "title": "స్కంధము 3 అధ్యాయం 1",
+          "verseCount": 45,
+          "path": "data/te-canto-03-chapter-01.json"
+        },
+        {
+          "chapterNumber": 2,
+          "title": "స్కంధము 3 అధ్యాయం 2",
+          "verseCount": 34,
+          "path": "data/te-canto-03-chapter-02.json"
+        },
+        {
+          "chapterNumber": 3,
+          "title": "స్కంధము 3 అధ్యాయం 3",
+          "verseCount": 28,
+          "path": "data/te-canto-03-chapter-03.json"
+        },
+        {
+          "chapterNumber": 4,
+          "title": "స్కంధము 3 అధ్యాయం 4",
+          "verseCount": 36,
+          "path": "data/te-canto-03-chapter-04.json"
+        },
+        {
+          "chapterNumber": 5,
+          "title": "స్కంధము 3 అధ్యాయం 5",
+          "verseCount": 51,
+          "path": "data/te-canto-03-chapter-05.json"
+        },
+        {
+          "chapterNumber": 6,
+          "title": "స్కంధము 3 అధ్యాయం 6",
+          "verseCount": 40,
+          "path": "data/te-canto-03-chapter-06.json"
+        },
+        {
+          "chapterNumber": 7,
+          "title": "స్కంధము 3 అధ్యాయం 7",
+          "verseCount": 42,
+          "path": "data/te-canto-03-chapter-07.json"
+        },
+        {
+          "chapterNumber": 8,
+          "title": "స్కంధము 3 అధ్యాయం 8",
+          "verseCount": 33,
+          "path": "data/te-canto-03-chapter-08.json"
+        },
+        {
+          "chapterNumber": 9,
+          "title": "స్కంధము 3 అధ్యాయం 9",
+          "verseCount": 43,
+          "path": "data/te-canto-03-chapter-09.json"
+        },
+        {
+          "chapterNumber": 10,
+          "title": "స్కంధము 3 అధ్యాయం 10",
+          "verseCount": 29,
+          "path": "data/te-canto-03-chapter-10.json"
+        },
+        {
+          "chapterNumber": 11,
+          "title": "స్కంధము 3 అధ్యాయం 11",
+          "verseCount": 42,
+          "path": "data/te-canto-03-chapter-11.json"
+        },
+        {
+          "chapterNumber": 12,
+          "title": "స్కంధము 3 అధ్యాయం 12",
+          "verseCount": 57,
+          "path": "data/te-canto-03-chapter-12.json"
+        },
+        {
+          "chapterNumber": 13,
+          "title": "స్కంధము 3 అధ్యాయం 13",
+          "verseCount": 50,
+          "path": "data/te-canto-03-chapter-13.json"
+        },
+        {
+          "chapterNumber": 14,
+          "title": "స్కంధము 3 అధ్యాయం 14",
+          "verseCount": 50,
+          "path": "data/te-canto-03-chapter-14.json"
+        },
+        {
+          "chapterNumber": 15,
+          "title": "స్కంధము 3 అధ్యాయం 15",
+          "verseCount": 50,
+          "path": "data/te-canto-03-chapter-15.json"
+        },
+        {
+          "chapterNumber": 16,
+          "title": "స్కంధము 3 అధ్యాయం 16",
+          "verseCount": 37,
+          "path": "data/te-canto-03-chapter-16.json"
+        },
+        {
+          "chapterNumber": 17,
+          "title": "స్కంధము 3 అధ్యాయం 17",
+          "verseCount": 31,
+          "path": "data/te-canto-03-chapter-17.json"
+        },
+        {
+          "chapterNumber": 18,
+          "title": "స్కంధము 3 అధ్యాయం 18",
+          "verseCount": 27,
+          "path": "data/te-canto-03-chapter-18.json"
+        },
+        {
+          "chapterNumber": 19,
+          "title": "స్కంధము 3 అధ్యాయం 19",
+          "verseCount": 38,
+          "path": "data/te-canto-03-chapter-19.json"
+        },
+        {
+          "chapterNumber": 20,
+          "title": "స్కంధము 3 అధ్యాయం 20",
+          "verseCount": 53,
+          "path": "data/te-canto-03-chapter-20.json"
+        },
+        {
+          "chapterNumber": 21,
+          "title": "స్కంధము 3 అధ్యాయం 21",
+          "verseCount": 50,
+          "path": "data/te-canto-03-chapter-21.json"
+        },
+        {
+          "chapterNumber": 22,
+          "title": "స్కంధము 3 అధ్యాయం 22",
+          "verseCount": 37,
+          "path": "data/te-canto-03-chapter-22.json"
+        },
+        {
+          "chapterNumber": 23,
+          "title": "స్కంధము 3 అధ్యాయం 23",
+          "verseCount": 54,
+          "path": "data/te-canto-03-chapter-23.json"
+        },
+        {
+          "chapterNumber": 24,
+          "title": "స్కంధము 3 అధ్యాయం 24",
+          "verseCount": 46,
+          "path": "data/te-canto-03-chapter-24.json"
+        },
+        {
+          "chapterNumber": 25,
+          "title": "స్కంధము 3 అధ్యాయం 25",
+          "verseCount": 43,
+          "path": "data/te-canto-03-chapter-25.json"
+        },
+        {
+          "chapterNumber": 26,
+          "title": "స్కంధము 3 అధ్యాయం 26",
+          "verseCount": 71,
+          "path": "data/te-canto-03-chapter-26.json"
+        },
+        {
+          "chapterNumber": 27,
+          "title": "స్కంధము 3 అధ్యాయం 27",
+          "verseCount": 29,
+          "path": "data/te-canto-03-chapter-27.json"
+        },
+        {
+          "chapterNumber": 28,
+          "title": "స్కంధము 3 అధ్యాయం 28",
+          "verseCount": 44,
+          "path": "data/te-canto-03-chapter-28.json"
+        },
+        {
+          "chapterNumber": 29,
+          "title": "స్కంధము 3 అధ్యాయం 29",
+          "verseCount": 43,
+          "path": "data/te-canto-03-chapter-29.json"
+        },
+        {
+          "chapterNumber": 30,
+          "title": "స్కంధము 3 అధ్యాయం 30",
+          "verseCount": 34,
+          "path": "data/te-canto-03-chapter-30.json"
+        },
+        {
+          "chapterNumber": 31,
+          "title": "స్కంధము 3 అధ్యాయం 31",
+          "verseCount": 47,
+          "path": "data/te-canto-03-chapter-31.json"
+        },
+        {
+          "chapterNumber": 32,
+          "title": "స్కంధము 3 అధ్యాయం 32",
+          "verseCount": 38,
+          "path": "data/te-canto-03-chapter-32.json"
+        },
+        {
+          "chapterNumber": 33,
+          "title": "స్కంధము 3 అధ్యాయం 33",
+          "verseCount": 52,
+          "path": "data/te-canto-03-chapter-33.json"
+        }
+      ]
+    },
+    {
+      "cantoNumber": 4,
+      "title": "Canto 4",
+      "chapters": [
+        {
+          "chapterNumber": 1,
+          "title": "స్కంధము 4 అధ్యాయం 1",
+          "verseCount": 60,
+          "path": "data/te-canto-04-chapter-01.json"
+        },
+        {
+          "chapterNumber": 2,
+          "title": "స్కంధము 4 అధ్యాయం 2",
+          "verseCount": 34,
+          "path": "data/te-canto-04-chapter-02.json"
+        },
+        {
+          "chapterNumber": 3,
+          "title": "స్కంధము 4 అధ్యాయం 3",
+          "verseCount": 23,
+          "path": "data/te-canto-04-chapter-03.json"
+        },
+        {
+          "chapterNumber": 4,
+          "title": "స్కంధము 4 అధ్యాయం 4",
+          "verseCount": 34,
+          "path": "data/te-canto-04-chapter-04.json"
+        },
+        {
+          "chapterNumber": 5,
+          "title": "స్కంధము 4 అధ్యాయం 5",
+          "verseCount": 26,
+          "path": "data/te-canto-04-chapter-05.json"
+        },
+        {
+          "chapterNumber": 6,
+          "title": "స్కంధము 4 అధ్యాయం 6",
+          "verseCount": 50,
+          "path": "data/te-canto-04-chapter-06.json"
+        },
+        {
+          "chapterNumber": 7,
+          "title": "స్కంధము 4 అధ్యాయం 7",
+          "verseCount": 61,
+          "path": "data/te-canto-04-chapter-07.json"
+        },
+        {
+          "chapterNumber": 8,
+          "title": "స్కంధము 4 అధ్యాయం 8",
+          "verseCount": 81,
+          "path": "data/te-canto-04-chapter-08.json"
+        },
+        {
+          "chapterNumber": 9,
+          "title": "స్కంధము 4 అధ్యాయం 9",
+          "verseCount": 63,
+          "path": "data/te-canto-04-chapter-09.json"
+        },
+        {
+          "chapterNumber": 10,
+          "title": "స్కంధము 4 అధ్యాయం 10",
+          "verseCount": 28,
+          "path": "data/te-canto-04-chapter-10.json"
+        },
+        {
+          "chapterNumber": 11,
+          "title": "స్కంధము 4 అధ్యాయం 11",
+          "verseCount": 35,
+          "path": "data/te-canto-04-chapter-11.json"
+        },
+        {
+          "chapterNumber": 12,
+          "title": "స్కంధము 4 అధ్యాయం 12",
+          "verseCount": 51,
+          "path": "data/te-canto-04-chapter-12.json"
+        },
+        {
+          "chapterNumber": 13,
+          "title": "స్కంధము 4 అధ్యాయం 13",
+          "verseCount": 46,
+          "path": "data/te-canto-04-chapter-13.json"
+        },
+        {
+          "chapterNumber": 14,
+          "title": "స్కంధము 4 అధ్యాయం 14",
+          "verseCount": 44,
+          "path": "data/te-canto-04-chapter-14.json"
+        },
+        {
+          "chapterNumber": 15,
+          "title": "స్కంధము 4 అధ్యాయం 15",
+          "verseCount": 25,
+          "path": "data/te-canto-04-chapter-15.json"
+        },
+        {
+          "chapterNumber": 16,
+          "title": "స్కంధము 4 అధ్యాయం 16",
+          "verseCount": 27,
+          "path": "data/te-canto-04-chapter-16.json"
+        },
+        {
+          "chapterNumber": 17,
+          "title": "స్కంధము 4 అధ్యాయం 17",
+          "verseCount": 34,
+          "path": "data/te-canto-04-chapter-17.json"
+        },
+        {
+          "chapterNumber": 18,
+          "title": "స్కంధము 4 అధ్యాయం 18",
+          "verseCount": 30,
+          "path": "data/te-canto-04-chapter-18.json"
+        },
+        {
+          "chapterNumber": 19,
+          "title": "స్కంధము 4 అధ్యాయం 19",
+          "verseCount": 41,
+          "path": "data/te-canto-04-chapter-19.json"
+        },
+        {
+          "chapterNumber": 20,
+          "title": "స్కంధము 4 అధ్యాయం 20",
+          "verseCount": 37,
+          "path": "data/te-canto-04-chapter-20.json"
+        },
+        {
+          "chapterNumber": 21,
+          "title": "స్కంధము 4 అధ్యాయం 21",
+          "verseCount": 51,
+          "path": "data/te-canto-04-chapter-21.json"
+        },
+        {
+          "chapterNumber": 22,
+          "title": "స్కంధము 4 అధ్యాయం 22",
+          "verseCount": 63,
+          "path": "data/te-canto-04-chapter-22.json"
+        },
+        {
+          "chapterNumber": 23,
+          "title": "స్కంధము 4 అధ్యాయం 23",
+          "verseCount": 37,
+          "path": "data/te-canto-04-chapter-23.json"
+        },
+        {
+          "chapterNumber": 24,
+          "title": "స్కంధము 4 అధ్యాయం 24",
+          "verseCount": 76,
+          "path": "data/te-canto-04-chapter-24.json"
+        },
+        {
+          "chapterNumber": 25,
+          "title": "స్కంధము 4 అధ్యాయం 25",
+          "verseCount": 58,
+          "path": "data/te-canto-04-chapter-25.json"
+        },
+        {
+          "chapterNumber": 26,
+          "title": "స్కంధము 4 అధ్యాయం 26",
+          "verseCount": 24,
+          "path": "data/te-canto-04-chapter-26.json"
+        },
+        {
+          "chapterNumber": 27,
+          "title": "స్కంధము 4 అధ్యాయం 27",
+          "verseCount": 30,
+          "path": "data/te-canto-04-chapter-27.json"
+        },
+        {
+          "chapterNumber": 28,
+          "title": "స్కంధము 4 అధ్యాయం 28",
+          "verseCount": 64,
+          "path": "data/te-canto-04-chapter-28.json"
+        },
+        {
+          "chapterNumber": 29,
+          "title": "స్కంధము 4 అధ్యాయం 29",
+          "verseCount": 185,
+          "path": "data/te-canto-04-chapter-29.json"
+        },
+        {
+          "chapterNumber": 30,
+          "title": "స్కంధము 4 అధ్యాయం 30",
+          "verseCount": 117,
+          "path": "data/te-canto-04-chapter-30.json"
+        },
+        {
+          "chapterNumber": 31,
+          "title": "స్కంధము 4 అధ్యాయం 31",
+          "verseCount": 69,
+          "path": "data/te-canto-04-chapter-31.json"
+        }
+      ]
+    },
+    {
+      "cantoNumber": 5,
+      "title": "Canto 5",
+      "chapters": [
+        {
+          "chapterNumber": 1,
+          "title": "స్కంధము 5 అధ్యాయం 1",
+          "verseCount": 41,
+          "path": "data/te-canto-05-chapter-01.json"
+        },
+        {
+          "chapterNumber": 2,
+          "title": "స్కంధము 5 అధ్యాయం 2",
+          "verseCount": 23,
+          "path": "data/te-canto-05-chapter-02.json"
+        },
+        {
+          "chapterNumber": 3,
+          "title": "స్కంధము 5 అధ్యాయం 3",
+          "verseCount": 19,
+          "path": "data/te-canto-05-chapter-03.json"
+        },
+        {
+          "chapterNumber": 4,
+          "title": "స్కంధము 5 అధ్యాయం 4",
+          "verseCount": 18,
+          "path": "data/te-canto-05-chapter-04.json"
         }
       ]
     }
